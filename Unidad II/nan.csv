@@ -1,0 +1,2001 @@
+edad,ciudad,peso,ingresos,genero,nivel_educacional,fumador,actividad_fisica
+,Concepción,57.4,340000.0,Femenino,Media,Sí,
+69.0,Temuco,76.2,396000.0,Masculino,Media,No,
+,Puerto Montt,78.3,357000.0,Masculino,Técnico,No,Moderada
+32.0,Iquique,64.6,506000.0,Femenino,Básica,Sí,Moderada
+,Rancagua,61.3,554000.0,Masculino,,No,Alta
+25.0,Rancagua,57.5,534000.0,Otro,Universitario,Sí,Moderada
+78.0,Rancagua,75.7,534000.0,Otro,Media,No,Moderada
+38.0,Puerto Montt,57.9,751000.0,Otro,Básica,No,Moderada
+56.0,Santiago,103.6,,Otro,Media,Sí,Baja
+75.0,La Serena,63.8,618000.0,Otro,Universitario,Sí,Moderada
+,Antofagasta,33.6,438000.0,Masculino,Media,Sí,Baja
+40.0,sin información,69.5,642000.0,,Básica,Sí,Moderada
+28.0,Valparaíso,68.9,431000.0,Otro,Media,No,Baja
+28.0,sin información,86.7,562000.0,Otro,Básica,No,Alta
+41.0,sin información,74.3,294000.0,Masculino,Universitario,Sí,
+70.0,Valparaíso,57.5,525000.0,Femenino,Media,No,Moderada
+53.0,Rancagua,65.7,354000.0,Masculino,Básica,No,Baja
+57.0,Concepción,74.9,640000.0,Masculino,Universitario,Sí,Alta
+41.0,Iquique,37.5,631000.0,Masculino,Media,Sí,Alta
+20.0,Valparaíso,90.1,,Masculino,,No,Alta
+39.0,Rancagua,57.5,807000.0,Masculino,Básica,Sí,Alta
+70.0,Valparaíso,91.3,457000.0,Femenino,Media,Sí,Moderada
+19.0,Concepción,75.9,258000.0,Otro,Media,No,Baja
+41.0,Rancagua,79.4,383000.0,,Media,No,Alta
+61.0,La Serena,87.2,343000.0,Femenino,Universitario,Sí,Moderada
+47.0,sin información,78.6,557000.0,Otro,Universitario,No,Alta
+55.0,Temuco,80.1,315000.0,Otro,Básica,Sí,Alta
+19.0,Talca,67.5,,Otro,Técnico,Sí,
+77.0,Puerto Montt,75.6,547000.0,Femenino,Media,No,Alta
+38.0,sin información,61.2,521000.0,Femenino,Media,No,Moderada
+50.0,Iquique,64.8,498000.0,Otro,Básica,Sí,
+29.0,Talca,99.5,,Otro,Media,Sí,Moderada
+75.0,Rancagua,57.9,444000.0,Otro,Universitario,Sí,Moderada
+39.0,La Serena,72.3,259000.0,Masculino,Universitario,No,Moderada
+78.0,Temuco,71.7,440000.0,Masculino,Media,Sí,Alta
+61.0,sin información,65.3,570000.0,Masculino,Media,No,Baja
+,Santiago,77.7,479000.0,Femenino,Universitario,Sí,Alta
+66.0,sin información,78.8,559000.0,Otro,Media,No,Moderada
+44.0,sin información,56.1,412000.0,Femenino,Universitario,Sí,Alta
+76.0,Valparaíso,71.5,649000.0,Femenino,Técnico,No,Baja
+59.0,La Serena,53.8,117000.0,Femenino,Técnico,Sí,Baja
+45.0,Valparaíso,81.8,521000.0,Otro,Media,Sí,Alta
+,Temuco,72.6,702000.0,Masculino,Media,Sí,Moderada
+33.0,Talca,71.2,725000.0,Otro,,Sí,Alta
+32.0,sin información,79.9,465000.0,Otro,Universitario,No,
+79.0,Temuco,65.9,301000.0,Femenino,Técnico,No,Baja
+79.0,Talca,83.7,705000.0,Femenino,Técnico,No,Alta
+64.0,Santiago,55.8,492000.0,Femenino,Básica,No,Baja
+79.0,Talca,91.2,476000.0,Masculino,Básica,No,Moderada
+68.0,Puerto Montt,61.7,366000.0,Masculino,Media,,Moderada
+61.0,La Serena,44.6,313000.0,Masculino,Universitario,No,Alta
+72.0,Iquique,65.1,585000.0,Otro,Media,No,Alta
+69.0,Temuco,63.4,600000.0,Femenino,Técnico,No,Alta
+74.0,Temuco,65.0,530000.0,Otro,Media,,Baja
+20.0,Antofagasta,73.5,385000.0,Masculino,Media,Sí,Moderada
+54.0,Rancagua,,340000.0,Femenino,Técnico,Sí,Moderada
+68.0,sin información,67.1,285000.0,Masculino,Técnico,Sí,Baja
+24.0,Puerto Montt,59.6,416000.0,Femenino,Técnico,Sí,
+38.0,sin información,53.1,,Femenino,Técnico,No,Alta
+26.0,Talca,63.0,244000.0,Otro,Básica,No,Baja
+56.0,Rancagua,41.7,598000.0,Otro,Universitario,Sí,Moderada
+35.0,La Serena,59.1,302000.0,,Universitario,Sí,Moderada
+21.0,La Serena,88.7,648000.0,Otro,Técnico,No,Moderada
+42.0,Puerto Montt,57.6,559000.0,,Universitario,No,Moderada
+77.0,La Serena,79.4,,,Universitario,Sí,Baja
+31.0,Antofagasta,51.6,750000.0,Femenino,Universitario,Sí,Moderada
+67.0,Temuco,96.6,307000.0,Otro,,Sí,Baja
+,Concepción,97.6,631000.0,Masculino,Técnico,Sí,
+26.0,Iquique,78.9,455000.0,Femenino,Media,No,Baja
+43.0,sin información,99.9,886000.0,Femenino,Media,No,Moderada
+70.0,Talca,75.3,443000.0,Otro,Media,No,
+19.0,Iquique,81.5,419000.0,Femenino,Básica,Sí,Baja
+37.0,Talca,88.9,564000.0,Masculino,Universitario,No,Baja
+45.0,Santiago,72.7,469000.0,Masculino,Técnico,No,Baja
+64.0,Iquique,46.7,386000.0,Femenino,Técnico,Sí,Alta
+77.0,Concepción,81.8,354000.0,Otro,Básica,Sí,Baja
+24.0,Puerto Montt,62.9,719000.0,Otro,Técnico,Sí,Moderada
+61.0,Antofagasta,64.0,325000.0,Femenino,Media,Sí,Alta
+78.0,Temuco,74.5,533000.0,Masculino,Básica,Sí,Alta
+25.0,Temuco,78.5,658000.0,Femenino,Técnico,Sí,Baja
+64.0,Antofagasta,72.3,666000.0,Otro,Básica,No,Moderada
+52.0,Rancagua,79.5,410000.0,Otro,Básica,No,Alta
+31.0,Santiago,59.4,469000.0,Femenino,Técnico,No,Baja
+34.0,sin información,69.4,440000.0,Masculino,Media,No,Moderada
+53.0,Concepción,82.7,270000.0,Femenino,Técnico,No,Baja
+67.0,La Serena,96.6,581000.0,Masculino,,No,
+57.0,Iquique,101.9,506000.0,Masculino,Universitario,Sí,Alta
+21.0,Santiago,76.5,716000.0,Femenino,Técnico,,Alta
+19.0,Iquique,82.6,377000.0,Femenino,Media,Sí,Baja
+,Concepción,99.7,663000.0,Masculino,Universitario,No,Alta
+23.0,Valparaíso,59.9,674000.0,Masculino,Universitario,No,Alta
+71.0,Valparaíso,79.4,507000.0,Masculino,Técnico,Sí,Moderada
+59.0,Santiago,81.5,174000.0,Masculino,Técnico,Sí,Moderada
+,Puerto Montt,91.7,423000.0,Otro,Técnico,Sí,Baja
+71.0,Concepción,52.9,768000.0,Femenino,Básica,Sí,
+46.0,Concepción,55.9,545000.0,Masculino,Básica,Sí,Baja
+35.0,Antofagasta,70.3,604000.0,Femenino,Básica,No,Baja
+43.0,Puerto Montt,75.7,487000.0,Masculino,Técnico,No,Moderada
+61.0,Talca,,466000.0,Femenino,Media,No,Alta
+51.0,Talca,77.8,220000.0,Femenino,Universitario,Sí,
+,La Serena,67.7,619000.0,Masculino,Básica,No,Baja
+79.0,Temuco,76.2,662000.0,Masculino,Media,Sí,Baja
+53.0,Valparaíso,74.5,357000.0,Femenino,Técnico,No,Moderada
+,Talca,96.2,473000.0,Femenino,Básica,Sí,Moderada
+48.0,sin información,72.5,,Femenino,Técnico,Sí,Baja
+65.0,sin información,64.3,563000.0,Otro,Media,No,Alta
+32.0,Talca,76.7,418000.0,Masculino,Básica,No,Baja
+25.0,Concepción,73.0,640000.0,Otro,Básica,No,Moderada
+31.0,Talca,,511000.0,Otro,Básica,No,
+40.0,Valparaíso,69.8,118000.0,Masculino,Básica,No,Baja
+77.0,Iquique,68.5,566000.0,Masculino,Media,Sí,Alta
+74.0,Talca,61.8,649000.0,Otro,Básica,No,
+79.0,Puerto Montt,85.5,327000.0,Masculino,,No,Baja
+57.0,Talca,58.2,561000.0,Femenino,Universitario,Sí,Baja
+38.0,Temuco,76.8,774000.0,Femenino,Técnico,No,
+,Valparaíso,67.8,517000.0,Otro,Básica,Sí,Moderada
+62.0,Puerto Montt,71.6,671000.0,Otro,Universitario,No,Alta
+35.0,Antofagasta,76.2,434000.0,Masculino,Universitario,No,Baja
+64.0,Puerto Montt,50.4,497000.0,Masculino,,Sí,Moderada
+70.0,Temuco,72.9,469000.0,,Media,,Alta
+41.0,Iquique,104.3,,Otro,Básica,No,
+43.0,Valparaíso,46.6,478000.0,Femenino,Media,No,Alta
+42.0,Antofagasta,69.1,255000.0,Femenino,Media,No,Alta
+77.0,Temuco,86.8,450000.0,Masculino,Universitario,Sí,Alta
+77.0,Temuco,74.5,701000.0,Femenino,Universitario,Sí,Alta
+77.0,Santiago,80.3,355000.0,Masculino,Técnico,No,Alta
+,Valparaíso,34.4,340000.0,Masculino,,No,Alta
+58.0,Puerto Montt,79.0,509000.0,Masculino,Básica,Sí,Alta
+46.0,Concepción,58.6,517000.0,Femenino,Universitario,Sí,Baja
+32.0,Iquique,74.6,557000.0,Otro,Universitario,No,Baja
+62.0,Concepción,69.6,483000.0,Otro,Básica,Sí,Alta
+18.0,Puerto Montt,104.2,511000.0,Femenino,Técnico,Sí,Baja
+42.0,Puerto Montt,78.2,447000.0,Otro,Universitario,,Alta
+24.0,Valparaíso,68.3,309000.0,Masculino,Técnico,Sí,Baja
+26.0,Puerto Montt,,489000.0,Otro,Media,No,
+41.0,Santiago,71.8,609000.0,Femenino,Universitario,,Alta
+18.0,Antofagasta,82.3,577000.0,Otro,Media,No,Moderada
+61.0,Puerto Montt,68.8,238000.0,Masculino,Universitario,No,Alta
+25.0,Concepción,62.4,538000.0,Masculino,Media,Sí,Alta
+41.0,Puerto Montt,61.4,366000.0,Femenino,Universitario,No,Moderada
+28.0,Santiago,78.0,709000.0,Femenino,Técnico,No,Moderada
+68.0,Talca,81.4,549000.0,Femenino,Técnico,Sí,Moderada
+34.0,Talca,90.4,634000.0,Masculino,Técnico,Sí,Alta
+25.0,Temuco,55.1,503000.0,Otro,Media,Sí,
+52.0,Iquique,77.9,490000.0,Otro,Técnico,No,Moderada
+52.0,La Serena,68.2,724000.0,Femenino,Media,No,
+50.0,sin información,68.6,646000.0,Otro,Universitario,No,Baja
+76.0,sin información,76.0,518000.0,Otro,Media,No,Moderada
+22.0,Temuco,76.1,470000.0,Femenino,Universitario,Sí,Moderada
+59.0,Iquique,77.9,244000.0,Femenino,Básica,No,Moderada
+,Talca,54.1,549000.0,Masculino,Básica,Sí,Moderada
+75.0,Concepción,58.8,481000.0,Masculino,,Sí,Baja
+58.0,Rancagua,92.3,583000.0,Masculino,Media,Sí,Alta
+45.0,Iquique,66.7,629000.0,Masculino,Básica,Sí,Moderada
+24.0,Iquique,74.6,685000.0,Otro,Básica,No,Moderada
+26.0,Temuco,85.8,551000.0,Otro,Básica,Sí,Baja
+25.0,Rancagua,77.0,343000.0,Masculino,Universitario,No,Moderada
+29.0,Valparaíso,78.2,,Masculino,Técnico,Sí,Moderada
+51.0,La Serena,83.4,,Femenino,Media,Sí,Baja
+50.0,Valparaíso,38.3,700000.0,Otro,Básica,Sí,Moderada
+65.0,Rancagua,62.7,774000.0,Otro,Universitario,No,Moderada
+72.0,Valparaíso,77.0,464000.0,Masculino,Técnico,Sí,Baja
+40.0,Santiago,90.8,281000.0,Otro,Técnico,Sí,Alta
+79.0,Talca,71.0,403000.0,Femenino,,Sí,Moderada
+41.0,Santiago,57.3,671000.0,Femenino,Universitario,Sí,Moderada
+54.0,Puerto Montt,57.7,411000.0,Otro,Básica,,Alta
+52.0,Valparaíso,83.3,588000.0,Masculino,Técnico,No,Baja
+61.0,Puerto Montt,66.7,525000.0,Otro,Universitario,Sí,Alta
+57.0,Concepción,69.9,607000.0,Femenino,Universitario,Sí,Moderada
+39.0,Antofagasta,79.2,773000.0,Masculino,Media,No,Alta
+44.0,Concepción,26.5,588000.0,Otro,Universitario,No,Baja
+52.0,Rancagua,100.0,,Masculino,Técnico,No,Moderada
+18.0,Iquique,59.0,,Masculino,Técnico,Sí,Baja
+52.0,Talca,73.6,,Femenino,Universitario,No,Baja
+54.0,Valparaíso,,381000.0,Masculino,Técnico,Sí,Alta
+64.0,Temuco,63.7,603000.0,Otro,Universitario,No,
+31.0,Antofagasta,88.7,567000.0,Masculino,Técnico,No,Baja
+20.0,La Serena,41.3,454000.0,Masculino,Media,Sí,
+18.0,La Serena,86.9,422000.0,Otro,Básica,No,
+22.0,La Serena,65.9,455000.0,Femenino,Media,Sí,Baja
+43.0,Valparaíso,77.3,420000.0,Femenino,,No,Baja
+,La Serena,79.9,460000.0,Otro,Básica,Sí,Alta
+,sin información,76.6,374000.0,Otro,Técnico,No,Baja
+56.0,Antofagasta,57.0,,Femenino,,No,Baja
+44.0,Santiago,64.5,547000.0,,Universitario,Sí,Alta
+26.0,Iquique,48.1,552000.0,Otro,Básica,Sí,Moderada
+,Antofagasta,77.4,,,Media,Sí,Alta
+32.0,Santiago,95.5,473000.0,Otro,Básica,Sí,
+43.0,Antofagasta,42.6,716000.0,Femenino,Técnico,No,Baja
+59.0,Iquique,58.6,510000.0,Masculino,Media,No,Baja
+77.0,Puerto Montt,67.3,690000.0,Masculino,Universitario,,Moderada
+30.0,Valparaíso,72.6,351000.0,Otro,Técnico,No,Baja
+68.0,Valparaíso,83.2,588000.0,Masculino,Media,No,Moderada
+49.0,sin información,67.7,390000.0,Otro,Universitario,No,Moderada
+56.0,Concepción,65.3,417000.0,Femenino,Técnico,Sí,Moderada
+,La Serena,86.5,438000.0,Masculino,Universitario,No,Moderada
+69.0,Rancagua,79.9,,,Básica,No,
+78.0,Santiago,78.1,430000.0,Masculino,,Sí,Alta
+49.0,Antofagasta,71.7,683000.0,Otro,Universitario,No,Alta
+21.0,Concepción,,507000.0,Otro,Básica,,Baja
+47.0,Iquique,60.2,534000.0,,Universitario,No,Baja
+54.0,Rancagua,58.1,431000.0,Femenino,Técnico,Sí,Moderada
+40.0,Iquique,81.2,629000.0,Masculino,Media,Sí,Baja
+56.0,Valparaíso,45.6,553000.0,Femenino,Universitario,No,Alta
+62.0,Valparaíso,71.4,454000.0,Otro,Media,Sí,Baja
+32.0,La Serena,65.3,,Otro,Media,No,
+60.0,Santiago,48.9,532000.0,Femenino,Universitario,No,Moderada
+46.0,sin información,56.0,586000.0,Femenino,Básica,No,Moderada
+53.0,Talca,68.4,353000.0,Masculino,Técnico,Sí,Moderada
+30.0,Rancagua,85.5,456000.0,Otro,,No,Moderada
+49.0,Rancagua,60.2,581000.0,Femenino,Técnico,No,Alta
+24.0,La Serena,88.2,264000.0,Otro,Media,No,Baja
+76.0,Valparaíso,70.9,403000.0,Otro,Universitario,No,Baja
+68.0,La Serena,89.7,557000.0,Masculino,Básica,No,Moderada
+39.0,Antofagasta,60.9,666000.0,Masculino,,Sí,Alta
+45.0,Concepción,69.3,828000.0,Masculino,Media,No,Alta
+19.0,Santiago,75.5,794000.0,Femenino,Universitario,Sí,Baja
+59.0,Puerto Montt,67.3,522000.0,Otro,Universitario,No,Moderada
+62.0,Temuco,84.3,427000.0,Femenino,Media,Sí,
+79.0,Temuco,36.9,638000.0,Femenino,Media,No,Baja
+74.0,La Serena,106.3,418000.0,Masculino,Media,No,Alta
+70.0,Antofagasta,82.9,386000.0,Otro,,Sí,Alta
+23.0,Concepción,67.4,454000.0,Otro,Media,Sí,Baja
+45.0,Talca,61.7,435000.0,,Media,No,Moderada
+45.0,Temuco,57.0,562000.0,Otro,Básica,Sí,Moderada
+61.0,Concepción,79.7,410000.0,Masculino,Universitario,Sí,Baja
+61.0,Santiago,84.9,513000.0,Femenino,Media,No,Baja
+37.0,Iquique,67.6,739000.0,Femenino,Técnico,No,
+47.0,Antofagasta,,,Masculino,Universitario,No,Moderada
+79.0,Valparaíso,56.4,728000.0,Femenino,Técnico,No,
+28.0,Concepción,53.7,680000.0,Femenino,,No,Baja
+75.0,Santiago,97.2,589000.0,Masculino,Básica,Sí,Alta
+72.0,Talca,78.9,447000.0,,Básica,No,Moderada
+45.0,Puerto Montt,91.0,656000.0,Otro,Básica,Sí,Moderada
+42.0,Valparaíso,57.2,463000.0,,Media,No,Moderada
+56.0,Puerto Montt,56.1,500000.0,Masculino,Media,No,Baja
+79.0,Talca,64.6,550000.0,Otro,Técnico,Sí,Alta
+50.0,Santiago,57.6,,Otro,Básica,No,Alta
+18.0,Temuco,80.6,392000.0,Femenino,Media,Sí,Moderada
+74.0,Puerto Montt,58.7,271000.0,Otro,Universitario,Sí,Baja
+44.0,Valparaíso,52.4,644000.0,Masculino,Media,Sí,Alta
+79.0,La Serena,72.1,586000.0,Otro,Media,No,Baja
+74.0,Rancagua,,242000.0,Femenino,Universitario,,Alta
+69.0,Concepción,43.0,388000.0,Femenino,Básica,No,Moderada
+30.0,Temuco,72.0,527000.0,Otro,Universitario,No,Baja
+58.0,Puerto Montt,43.8,566000.0,Masculino,Básica,No,Moderada
+20.0,sin información,81.6,,Masculino,Universitario,No,Alta
+56.0,Concepción,49.1,487000.0,Femenino,Técnico,Sí,Alta
+23.0,La Serena,36.4,581000.0,Femenino,Básica,No,Moderada
+25.0,Talca,65.6,447000.0,Masculino,Media,No,Alta
+44.0,Rancagua,72.2,538000.0,Otro,Técnico,No,Moderada
+26.0,Santiago,77.4,427000.0,,Básica,No,Moderada
+79.0,sin información,72.6,636000.0,Otro,Básica,Sí,Moderada
+54.0,La Serena,,380000.0,Otro,Básica,Sí,Alta
+50.0,Talca,80.7,329000.0,Masculino,,Sí,Baja
+68.0,Antofagasta,84.4,504000.0,Femenino,Básica,Sí,Moderada
+59.0,sin información,51.9,285000.0,Femenino,Media,Sí,Baja
+61.0,Antofagasta,67.3,184000.0,Otro,Básica,No,Alta
+41.0,Antofagasta,65.9,663000.0,Masculino,Media,Sí,Alta
+32.0,Temuco,73.3,352000.0,Masculino,Media,Sí,Baja
+76.0,Temuco,66.9,300000.0,Otro,Media,No,Moderada
+71.0,Valparaíso,69.0,378000.0,Otro,Técnico,No,Alta
+,Puerto Montt,79.6,372000.0,Otro,Media,Sí,
+49.0,Puerto Montt,53.3,,Femenino,Universitario,No,Moderada
+41.0,Santiago,81.1,336000.0,Otro,Básica,No,Baja
+58.0,Puerto Montt,87.1,575000.0,Femenino,Universitario,Sí,Alta
+69.0,sin información,94.5,597000.0,Masculino,,No,Baja
+66.0,Valparaíso,37.8,309000.0,Masculino,,Sí,Alta
+79.0,Valparaíso,67.3,407000.0,Femenino,Media,Sí,Baja
+,Antofagasta,40.5,422000.0,Femenino,Básica,No,
+75.0,Talca,33.5,475000.0,Femenino,Técnico,Sí,Alta
+,Santiago,,662000.0,,Técnico,Sí,Alta
+29.0,Antofagasta,64.0,671000.0,Otro,Universitario,No,Moderada
+79.0,Talca,74.5,875000.0,Masculino,Básica,No,Moderada
+56.0,Puerto Montt,77.3,160000.0,Otro,Básica,No,Baja
+19.0,Antofagasta,88.7,361000.0,Femenino,Básica,No,Baja
+20.0,Concepción,70.8,772000.0,Otro,,Sí,Alta
+66.0,Puerto Montt,113.9,230000.0,Otro,Técnico,No,Alta
+54.0,Talca,74.6,769000.0,Masculino,Media,No,Moderada
+66.0,Santiago,97.6,522000.0,Otro,Básica,Sí,Moderada
+,Talca,35.0,528000.0,Masculino,Universitario,Sí,Moderada
+34.0,Antofagasta,90.2,308000.0,Femenino,Universitario,Sí,Baja
+76.0,sin información,67.3,432000.0,Otro,Media,Sí,Moderada
+,La Serena,,,Femenino,Técnico,No,Baja
+19.0,Santiago,76.3,,Masculino,Básica,No,Moderada
+19.0,Iquique,65.5,433000.0,Femenino,Básica,Sí,Moderada
+45.0,Puerto Montt,78.7,561000.0,Femenino,Universitario,Sí,Alta
+71.0,sin información,85.2,,Masculino,Técnico,Sí,Baja
+40.0,Santiago,47.7,552000.0,Femenino,Básica,Sí,Moderada
+54.0,Valparaíso,85.2,373000.0,Femenino,,No,Alta
+49.0,Santiago,70.1,488000.0,Femenino,Técnico,Sí,Baja
+50.0,sin información,90.3,404000.0,Otro,Técnico,No,Baja
+18.0,Talca,66.9,229000.0,Femenino,Universitario,Sí,Moderada
+36.0,Santiago,,572000.0,Masculino,Universitario,No,Baja
+79.0,La Serena,70.4,315000.0,Otro,Básica,,Alta
+,Iquique,,475000.0,Otro,Universitario,No,
+70.0,Antofagasta,,639000.0,Masculino,Técnico,No,Baja
+61.0,Rancagua,62.6,275000.0,Femenino,Básica,Sí,Alta
+,Valparaíso,51.6,591000.0,Otro,Básica,No,Baja
+49.0,Antofagasta,63.5,455000.0,Otro,Técnico,Sí,Alta
+23.0,Rancagua,80.1,355000.0,Otro,Básica,No,Baja
+49.0,Iquique,67.9,803000.0,Femenino,Media,No,
+72.0,Iquique,85.1,,Otro,Media,Sí,Baja
+21.0,Valparaíso,67.2,415000.0,Masculino,Básica,Sí,Alta
+72.0,Valparaíso,48.5,383000.0,Femenino,Universitario,No,Baja
+28.0,Iquique,79.0,632000.0,Masculino,Media,No,Baja
+73.0,Rancagua,59.9,408000.0,,Básica,Sí,Moderada
+76.0,Santiago,66.5,613000.0,,Media,No,Moderada
+34.0,Puerto Montt,88.6,500000.0,Otro,Universitario,Sí,Baja
+55.0,Concepción,52.6,667000.0,Otro,Técnico,Sí,Moderada
+41.0,Antofagasta,72.5,344000.0,Masculino,Básica,Sí,Baja
+22.0,Talca,69.4,365000.0,Femenino,Básica,No,Moderada
+69.0,sin información,,458000.0,Otro,Básica,No,Alta
+,Talca,82.8,470000.0,Otro,Básica,Sí,Alta
+23.0,Rancagua,74.0,447000.0,Masculino,Básica,,Baja
+,Talca,64.6,895000.0,Femenino,Básica,Sí,Baja
+28.0,Valparaíso,77.1,809000.0,Masculino,Universitario,Sí,Alta
+65.0,Puerto Montt,90.0,,Otro,Técnico,No,Alta
+33.0,Puerto Montt,69.6,563000.0,Masculino,Universitario,Sí,Moderada
+50.0,Valparaíso,66.0,465000.0,Otro,Universitario,No,Baja
+26.0,La Serena,75.8,343000.0,Femenino,Técnico,Sí,Alta
+77.0,Rancagua,70.6,473000.0,Masculino,Universitario,No,Alta
+76.0,La Serena,49.9,616000.0,Otro,,No,Baja
+23.0,La Serena,73.6,696000.0,Otro,Universitario,No,Moderada
+33.0,Antofagasta,49.8,,,Básica,No,Moderada
+46.0,Iquique,75.6,274000.0,,Media,No,Moderada
+,Antofagasta,58.0,457000.0,Masculino,Media,Sí,Moderada
+37.0,Iquique,70.6,280000.0,Otro,Técnico,Sí,Alta
+77.0,sin información,75.9,,Masculino,Universitario,No,
+76.0,Talca,106.8,438000.0,Otro,Universitario,Sí,Baja
+53.0,Iquique,81.1,493000.0,,Media,Sí,Alta
+36.0,Valparaíso,90.5,572000.0,Masculino,Universitario,Sí,Alta
+43.0,Antofagasta,98.1,,Otro,Universitario,Sí,
+20.0,Rancagua,77.3,540000.0,Otro,Técnico,Sí,Baja
+36.0,Talca,74.3,464000.0,Otro,Media,Sí,Baja
+37.0,Concepción,54.0,314000.0,Otro,Básica,,
+49.0,Iquique,68.3,,Femenino,Media,,
+,Concepción,59.2,473000.0,Otro,Técnico,Sí,Alta
+69.0,Rancagua,64.0,749000.0,Otro,Técnico,Sí,Alta
+58.0,La Serena,98.1,666000.0,Otro,Técnico,Sí,Alta
+50.0,Puerto Montt,71.7,431000.0,Masculino,,No,Baja
+57.0,sin información,56.9,291000.0,Otro,Media,No,Alta
+56.0,Temuco,90.6,541000.0,Masculino,Universitario,Sí,Alta
+35.0,Rancagua,84.3,408000.0,Masculino,Universitario,No,Moderada
+57.0,Concepción,85.1,506000.0,Masculino,Media,No,Baja
+18.0,Valparaíso,39.9,657000.0,Masculino,Técnico,,Alta
+28.0,Antofagasta,99.2,252000.0,Femenino,Básica,No,Baja
+45.0,Valparaíso,61.6,540000.0,Otro,Básica,Sí,Baja
+74.0,Concepción,81.7,614000.0,Masculino,Media,No,
+42.0,Antofagasta,,621000.0,Otro,Media,Sí,Moderada
+67.0,Temuco,102.3,295000.0,Masculino,Técnico,No,Baja
+40.0,Puerto Montt,55.3,563000.0,Femenino,Media,,Baja
+48.0,Talca,48.3,681000.0,Masculino,Media,Sí,Baja
+47.0,Concepción,91.5,551000.0,Otro,Técnico,,Alta
+59.0,Iquique,72.1,483000.0,Otro,Técnico,Sí,Moderada
+52.0,Concepción,62.5,,Femenino,Universitario,Sí,Alta
+24.0,Concepción,79.3,396000.0,Otro,Media,No,Moderada
+77.0,Antofagasta,67.6,271000.0,Otro,Básica,Sí,Moderada
+33.0,Santiago,80.5,470000.0,Masculino,Media,Sí,Baja
+43.0,sin información,71.0,580000.0,Otro,Básica,No,
+65.0,Santiago,80.8,656000.0,Masculino,Básica,Sí,Alta
+74.0,sin información,56.6,580000.0,Femenino,Básica,No,Moderada
+69.0,sin información,,625000.0,Otro,Universitario,Sí,Baja
+77.0,Puerto Montt,80.5,657000.0,Masculino,Técnico,No,Baja
+66.0,La Serena,79.7,449000.0,Otro,Técnico,No,Baja
+19.0,Temuco,53.2,478000.0,Masculino,Universitario,,Baja
+18.0,La Serena,,693000.0,Femenino,Técnico,No,Alta
+65.0,La Serena,,318000.0,Masculino,Universitario,Sí,Alta
+79.0,Puerto Montt,80.9,,Otro,Media,Sí,Baja
+29.0,Valparaíso,65.2,392000.0,,Universitario,No,Baja
+22.0,Santiago,73.9,665000.0,Otro,Técnico,Sí,
+54.0,Concepción,74.5,497000.0,Femenino,Técnico,Sí,Baja
+49.0,Talca,27.7,501000.0,Masculino,Media,No,Baja
+76.0,La Serena,78.7,759000.0,Otro,Universitario,Sí,Moderada
+72.0,Iquique,99.5,339000.0,Otro,,Sí,Moderada
+26.0,Temuco,78.1,532000.0,Otro,Básica,No,Moderada
+,Valparaíso,55.6,473000.0,Masculino,Universitario,Sí,Moderada
+52.0,La Serena,79.7,580000.0,Masculino,Media,Sí,Baja
+36.0,Valparaíso,85.9,789000.0,Masculino,Media,No,Moderada
+65.0,Valparaíso,77.7,409000.0,Femenino,Técnico,Sí,Moderada
+33.0,La Serena,68.9,320000.0,Otro,Universitario,Sí,Alta
+20.0,Antofagasta,66.4,379000.0,Otro,Básica,No,Moderada
+37.0,Rancagua,66.3,,Femenino,Básica,Sí,Moderada
+41.0,Iquique,80.5,510000.0,Femenino,Universitario,Sí,Baja
+71.0,Concepción,48.9,517000.0,Masculino,Universitario,No,Moderada
+73.0,sin información,64.4,770000.0,Masculino,Media,No,
+50.0,Iquique,93.9,744000.0,Masculino,Técnico,Sí,Baja
+41.0,Antofagasta,94.5,695000.0,Masculino,Técnico,Sí,Moderada
+69.0,Concepción,47.8,877000.0,Masculino,Técnico,No,Baja
+28.0,Valparaíso,53.0,624000.0,Masculino,,Sí,Moderada
+66.0,Puerto Montt,65.9,666000.0,Femenino,Técnico,Sí,Alta
+25.0,Temuco,83.4,621000.0,Femenino,Media,Sí,Alta
+53.0,Santiago,42.6,596000.0,Femenino,,No,Moderada
+55.0,Concepción,69.2,559000.0,Otro,Universitario,Sí,Alta
+57.0,Iquique,62.9,440000.0,Otro,Técnico,Sí,Baja
+37.0,Puerto Montt,89.9,313000.0,Masculino,Básica,No,Moderada
+79.0,La Serena,44.8,480000.0,Femenino,,No,Baja
+52.0,Rancagua,71.4,585000.0,Otro,Media,No,Alta
+65.0,Iquique,64.1,511000.0,Otro,Técnico,Sí,Baja
+,Valparaíso,92.0,340000.0,Femenino,Técnico,Sí,Alta
+42.0,Rancagua,79.0,,Otro,Universitario,No,
+52.0,Temuco,61.2,467000.0,Otro,Universitario,Sí,Alta
+42.0,Temuco,82.8,491000.0,Femenino,,Sí,
+46.0,Antofagasta,64.2,574000.0,Otro,Universitario,Sí,Alta
+35.0,Talca,85.0,606000.0,Femenino,Técnico,Sí,
+63.0,Antofagasta,66.4,425000.0,Otro,Media,No,Alta
+35.0,sin información,85.8,,Femenino,Universitario,No,Moderada
+19.0,Rancagua,76.5,670000.0,Otro,Técnico,Sí,Moderada
+,sin información,118.9,548000.0,Otro,,No,Moderada
+52.0,La Serena,69.2,600000.0,Femenino,Media,Sí,Moderada
+33.0,Valparaíso,75.7,648000.0,Otro,Universitario,Sí,Baja
+78.0,Rancagua,62.8,335000.0,Femenino,Técnico,No,Moderada
+58.0,Antofagasta,70.0,658000.0,Femenino,Universitario,No,Alta
+53.0,Santiago,29.5,381000.0,Otro,Universitario,Sí,Moderada
+50.0,Talca,77.0,396000.0,Masculino,Técnico,Sí,Alta
+,Talca,90.1,529000.0,Otro,Básica,Sí,Baja
+,Valparaíso,75.9,,Masculino,Universitario,Sí,Moderada
+31.0,Concepción,50.3,,,Universitario,No,Alta
+38.0,Temuco,58.0,647000.0,Otro,Media,No,Baja
+65.0,Temuco,33.5,253000.0,Masculino,Básica,Sí,Baja
+37.0,Santiago,84.7,663000.0,Femenino,Media,Sí,Alta
+73.0,Puerto Montt,54.9,395000.0,Femenino,Técnico,No,Moderada
+25.0,Puerto Montt,69.6,531000.0,Masculino,Técnico,Sí,Baja
+24.0,La Serena,67.7,417000.0,Femenino,Media,No,Alta
+20.0,Rancagua,92.3,586000.0,Otro,Universitario,Sí,Moderada
+34.0,sin información,71.3,654000.0,Femenino,Básica,No,Baja
+50.0,Concepción,82.1,597000.0,Masculino,Media,Sí,Alta
+,Antofagasta,78.2,499000.0,Otro,Media,Sí,Baja
+29.0,Iquique,,429000.0,Femenino,Técnico,Sí,Baja
+76.0,Iquique,66.4,490000.0,Otro,Universitario,No,Alta
+68.0,Talca,98.0,,Masculino,Básica,No,Baja
+39.0,Santiago,40.2,604000.0,Femenino,Media,Sí,Alta
+72.0,Temuco,82.9,583000.0,Otro,Básica,,Moderada
+39.0,La Serena,57.0,308000.0,Otro,,Sí,Alta
+63.0,Puerto Montt,62.6,497000.0,Femenino,Media,Sí,Moderada
+,Santiago,78.5,405000.0,Otro,Básica,No,Baja
+55.0,Talca,78.4,600000.0,Otro,Técnico,No,Alta
+55.0,Antofagasta,79.1,385000.0,Masculino,Universitario,No,Alta
+62.0,La Serena,49.2,568000.0,Masculino,Universitario,Sí,Alta
+68.0,Talca,91.7,458000.0,Masculino,Universitario,Sí,Alta
+71.0,Temuco,56.5,218000.0,Masculino,Técnico,No,Moderada
+25.0,Temuco,58.5,640000.0,Masculino,Técnico,Sí,Moderada
+44.0,Temuco,79.6,496000.0,Masculino,Técnico,No,Baja
+44.0,Santiago,,691000.0,Femenino,Universitario,No,Baja
+51.0,sin información,,250000.0,Masculino,Básica,No,Baja
+38.0,Puerto Montt,37.7,456000.0,Otro,Técnico,No,Baja
+47.0,Puerto Montt,74.3,468000.0,Femenino,Media,Sí,Alta
+50.0,Antofagasta,73.3,541000.0,Otro,Técnico,,
+,La Serena,62.4,301000.0,Masculino,Media,Sí,Moderada
+64.0,Valparaíso,,582000.0,Masculino,Universitario,No,Moderada
+50.0,Valparaíso,66.8,787000.0,Otro,Media,No,Moderada
+22.0,Talca,69.4,571000.0,Otro,Técnico,No,Baja
+77.0,Temuco,,514000.0,Otro,Técnico,No,Alta
+78.0,La Serena,42.5,293000.0,Femenino,Básica,Sí,Moderada
+65.0,sin información,93.9,384000.0,Masculino,Universitario,Sí,Alta
+36.0,Santiago,60.4,,Otro,Media,Sí,Alta
+21.0,sin información,66.7,421000.0,Masculino,Universitario,Sí,Alta
+52.0,Concepción,33.9,654000.0,Otro,,No,Alta
+66.0,Antofagasta,93.9,580000.0,Masculino,Básica,Sí,Moderada
+34.0,Temuco,63.0,904000.0,Femenino,Técnico,Sí,Moderada
+61.0,Temuco,71.5,,,Técnico,No,Moderada
+,Temuco,86.8,505000.0,,Técnico,Sí,Baja
+47.0,Santiago,59.9,292000.0,Masculino,Media,Sí,Moderada
+46.0,Santiago,84.4,167000.0,Femenino,Técnico,Sí,Baja
+63.0,Concepción,39.1,608000.0,Femenino,Universitario,Sí,
+70.0,Iquique,78.3,574000.0,Masculino,Universitario,No,Baja
+23.0,La Serena,93.6,372000.0,Otro,Básica,No,Moderada
+52.0,Temuco,61.3,514000.0,Femenino,Universitario,Sí,Moderada
+77.0,Valparaíso,,406000.0,Femenino,Técnico,,
+58.0,Puerto Montt,97.5,426000.0,Masculino,Técnico,Sí,Baja
+54.0,Valparaíso,66.2,452000.0,Femenino,Universitario,Sí,Baja
+,Talca,64.9,366000.0,Femenino,Básica,Sí,Alta
+46.0,Valparaíso,56.5,393000.0,Otro,Básica,No,Baja
+66.0,Talca,62.4,397000.0,,Universitario,No,Baja
+63.0,Rancagua,57.8,563000.0,,Media,,Moderada
+70.0,Puerto Montt,56.5,84000.0,Masculino,Media,No,Alta
+48.0,Valparaíso,88.0,466000.0,Femenino,Media,No,Alta
+52.0,Rancagua,58.2,,Masculino,Media,No,Alta
+77.0,Antofagasta,73.9,342000.0,Femenino,,Sí,Moderada
+,La Serena,70.6,421000.0,Femenino,Básica,No,Alta
+69.0,Rancagua,92.5,498000.0,Femenino,Técnico,Sí,Alta
+78.0,La Serena,62.5,468000.0,,Técnico,Sí,Moderada
+38.0,Valparaíso,75.7,340000.0,Masculino,Universitario,No,
+,Iquique,81.9,608000.0,Masculino,Técnico,Sí,Baja
+40.0,Rancagua,92.3,365000.0,Femenino,Media,Sí,Baja
+50.0,Puerto Montt,62.2,,Masculino,Básica,Sí,Baja
+20.0,Valparaíso,60.7,543000.0,Otro,Universitario,No,Baja
+35.0,Temuco,54.1,,Masculino,Básica,No,Baja
+42.0,Santiago,103.5,408000.0,Femenino,Universitario,Sí,Baja
+,Rancagua,90.8,60000.0,Otro,Universitario,No,Baja
+48.0,Puerto Montt,69.4,367000.0,Otro,Universitario,Sí,Baja
+71.0,Antofagasta,99.0,,Femenino,Universitario,No,Baja
+75.0,Temuco,68.5,603000.0,Masculino,Básica,Sí,Moderada
+20.0,Antofagasta,80.9,488000.0,Femenino,Técnico,Sí,Moderada
+57.0,Valparaíso,70.2,428000.0,Masculino,,No,Baja
+63.0,Santiago,76.0,844000.0,Masculino,Media,No,Moderada
+41.0,Rancagua,74.4,,Otro,Universitario,No,Moderada
+67.0,Rancagua,63.6,592000.0,Femenino,Básica,No,Baja
+49.0,Iquique,86.4,300000.0,Otro,Universitario,No,Baja
+64.0,Iquique,80.7,336000.0,Femenino,Media,,Moderada
+39.0,Valparaíso,85.4,597000.0,Femenino,Básica,Sí,Baja
+40.0,Valparaíso,74.8,657000.0,Otro,Universitario,Sí,Baja
+19.0,Santiago,56.4,442000.0,Femenino,Media,No,Baja
+44.0,Iquique,,223000.0,Femenino,Básica,No,Baja
+59.0,Puerto Montt,66.1,475000.0,Masculino,Universitario,Sí,Moderada
+19.0,sin información,75.5,528000.0,Femenino,Media,Sí,Alta
+43.0,Santiago,79.5,515000.0,Femenino,Básica,Sí,Moderada
+34.0,Puerto Montt,,415000.0,Otro,,Sí,Alta
+57.0,Talca,83.7,477000.0,Otro,Básica,No,Alta
+50.0,La Serena,86.1,388000.0,Femenino,Media,Sí,Alta
+26.0,Santiago,66.6,333000.0,,Universitario,No,Moderada
+60.0,Santiago,,613000.0,Masculino,Universitario,Sí,Moderada
+71.0,Concepción,66.0,515000.0,Otro,Universitario,No,Moderada
+65.0,Temuco,75.1,,Femenino,Media,No,Moderada
+56.0,Temuco,64.2,424000.0,Femenino,Técnico,No,Moderada
+46.0,Talca,59.9,473000.0,Masculino,Universitario,No,Alta
+59.0,Iquique,85.7,524000.0,Masculino,Media,Sí,Moderada
+72.0,Valparaíso,116.8,,Masculino,Básica,Sí,
+43.0,Valparaíso,64.6,598000.0,Otro,Básica,Sí,Moderada
+52.0,Antofagasta,88.2,400000.0,,Media,No,
+67.0,Talca,65.1,402000.0,Otro,Técnico,Sí,Baja
+42.0,sin información,69.8,378000.0,Femenino,,Sí,Alta
+41.0,Talca,96.4,470000.0,Otro,Básica,Sí,Moderada
+30.0,Talca,53.9,378000.0,Femenino,Básica,No,Moderada
+,Talca,49.9,571000.0,Masculino,Universitario,No,Moderada
+75.0,Temuco,68.7,103000.0,Masculino,Técnico,No,Baja
+24.0,Talca,80.0,580000.0,Masculino,Media,Sí,Alta
+74.0,La Serena,77.0,541000.0,Otro,Básica,Sí,Moderada
+53.0,Valparaíso,75.4,689000.0,Masculino,Básica,Sí,Moderada
+,Antofagasta,70.5,632000.0,Femenino,Básica,No,Moderada
+37.0,La Serena,81.8,397000.0,Otro,Media,Sí,Baja
+,Antofagasta,26.3,615000.0,Femenino,Media,No,Moderada
+25.0,Concepción,58.7,475000.0,Otro,Técnico,No,Alta
+63.0,sin información,68.6,210000.0,,Universitario,No,Alta
+33.0,Valparaíso,80.6,524000.0,Femenino,Universitario,No,Alta
+31.0,Valparaíso,92.3,,Otro,Universitario,Sí,Alta
+,Talca,56.7,500000.0,Otro,,Sí,
+68.0,Rancagua,91.9,748000.0,Masculino,Universitario,No,Baja
+40.0,sin información,63.2,534000.0,Masculino,,Sí,
+32.0,Santiago,68.1,347000.0,Femenino,Técnico,No,Baja
+45.0,Puerto Montt,78.7,645000.0,Femenino,Básica,Sí,Moderada
+51.0,Antofagasta,67.0,554000.0,,Técnico,Sí,Baja
+19.0,Rancagua,86.7,330000.0,Otro,Técnico,No,Alta
+49.0,Talca,63.9,259000.0,Otro,Universitario,No,Moderada
+,Temuco,64.2,353000.0,Masculino,,No,Baja
+39.0,Santiago,85.8,625000.0,Femenino,Básica,No,Alta
+68.0,Iquique,58.6,455000.0,Masculino,Media,Sí,Alta
+42.0,sin información,73.7,512000.0,Otro,Universitario,No,Moderada
+75.0,Temuco,45.1,299000.0,Otro,Universitario,Sí,Moderada
+79.0,Concepción,97.3,629000.0,Otro,Media,No,Baja
+78.0,Talca,88.1,198000.0,Masculino,Media,Sí,
+39.0,Santiago,,402000.0,Otro,Universitario,No,Baja
+75.0,Santiago,90.1,,Femenino,Media,Sí,Moderada
+75.0,Santiago,53.1,332000.0,Masculino,Básica,Sí,Baja
+39.0,Concepción,80.0,592000.0,Otro,Técnico,Sí,Baja
+66.0,Antofagasta,56.2,370000.0,Masculino,Técnico,No,Alta
+69.0,Iquique,93.7,316000.0,Masculino,Universitario,No,Alta
+59.0,Concepción,53.5,693000.0,Otro,Universitario,No,Alta
+23.0,Puerto Montt,52.8,523000.0,Otro,Básica,No,Baja
+32.0,Iquique,45.9,578000.0,Masculino,Media,Sí,Moderada
+71.0,Valparaíso,62.7,653000.0,Masculino,Universitario,Sí,Alta
+60.0,Talca,59.7,107000.0,Otro,Técnico,Sí,Moderada
+77.0,Concepción,51.1,595000.0,Femenino,Básica,,Baja
+54.0,sin información,99.8,386000.0,Masculino,Básica,Sí,Baja
+,Iquique,77.9,406000.0,Masculino,Media,Sí,Alta
+25.0,Puerto Montt,76.2,566000.0,Femenino,Universitario,No,Moderada
+70.0,Valparaíso,93.8,446000.0,Otro,Universitario,No,
+77.0,Antofagasta,,589000.0,Otro,Básica,Sí,
+61.0,Temuco,58.8,494000.0,Femenino,Técnico,No,Moderada
+61.0,Iquique,44.5,525000.0,Otro,Universitario,No,Alta
+22.0,Talca,57.9,426000.0,Otro,Técnico,No,Baja
+56.0,Temuco,92.6,340000.0,Masculino,Básica,No,Alta
+21.0,Valparaíso,51.2,389000.0,Masculino,Universitario,Sí,Moderada
+,Temuco,75.3,485000.0,Masculino,Técnico,Sí,
+62.0,La Serena,85.5,776000.0,Femenino,Básica,,Moderada
+49.0,Rancagua,74.3,721000.0,Otro,Técnico,Sí,Moderada
+69.0,Antofagasta,76.0,402000.0,Otro,Universitario,Sí,Moderada
+47.0,Valparaíso,79.8,509000.0,Masculino,Media,No,Alta
+64.0,Temuco,75.7,457000.0,Masculino,Técnico,Sí,Alta
+52.0,Rancagua,94.1,520000.0,Femenino,,Sí,Alta
+72.0,Rancagua,54.4,539000.0,Otro,Universitario,No,Alta
+57.0,Temuco,73.6,579000.0,Femenino,Media,No,Baja
+69.0,Talca,42.7,65000.0,Otro,Básica,No,Baja
+33.0,La Serena,,555000.0,Femenino,Media,Sí,Alta
+30.0,Concepción,68.8,440000.0,Masculino,Técnico,No,Baja
+67.0,sin información,78.2,394000.0,,Técnico,No,
+77.0,Temuco,94.5,619000.0,Femenino,,No,
+59.0,Antofagasta,106.3,720000.0,Masculino,Básica,Sí,Alta
+47.0,Concepción,89.8,603000.0,Otro,Universitario,No,Baja
+36.0,Valparaíso,80.9,422000.0,Otro,Media,No,Baja
+,La Serena,72.4,339000.0,Masculino,Técnico,Sí,Alta
+73.0,Temuco,47.0,49000.0,Femenino,Técnico,No,Moderada
+36.0,La Serena,67.8,527000.0,Femenino,Media,Sí,Alta
+,Concepción,89.4,587000.0,Femenino,Media,Sí,Moderada
+75.0,Puerto Montt,83.5,,Otro,Media,,Baja
+72.0,Iquique,50.7,640000.0,Femenino,Universitario,Sí,Moderada
+43.0,La Serena,79.2,302000.0,Otro,Técnico,No,Moderada
+54.0,Valparaíso,77.9,474000.0,Femenino,Técnico,No,Alta
+43.0,Valparaíso,75.2,462000.0,Masculino,Técnico,No,Baja
+70.0,Santiago,69.6,483000.0,Masculino,Universitario,No,Alta
+79.0,La Serena,80.0,675000.0,Otro,Básica,Sí,Alta
+40.0,Iquique,80.5,,Otro,Técnico,No,Baja
+26.0,Talca,,456000.0,Masculino,Técnico,No,Alta
+29.0,Rancagua,76.8,359000.0,Masculino,Básica,No,Alta
+70.0,sin información,67.2,699000.0,Femenino,Universitario,Sí,Moderada
+18.0,Rancagua,47.7,285000.0,Masculino,Básica,Sí,Alta
+75.0,Rancagua,61.6,417000.0,Otro,Básica,No,Baja
+75.0,Puerto Montt,46.5,754000.0,Masculino,Básica,Sí,Alta
+18.0,Santiago,84.7,570000.0,Otro,Básica,Sí,Moderada
+,Iquique,75.3,497000.0,Otro,Universitario,No,Alta
+51.0,Iquique,64.7,503000.0,Femenino,Universitario,No,Alta
+49.0,Puerto Montt,91.3,358000.0,Femenino,Básica,No,
+79.0,La Serena,71.0,490000.0,Femenino,Media,No,Moderada
+71.0,La Serena,48.5,448000.0,Femenino,Media,No,Baja
+65.0,La Serena,63.4,527000.0,Masculino,Media,Sí,
+42.0,Antofagasta,94.5,274000.0,Femenino,Media,No,Moderada
+57.0,Rancagua,60.0,560000.0,Masculino,Técnico,No,Moderada
+62.0,Antofagasta,74.1,652000.0,Femenino,Universitario,No,Alta
+70.0,Santiago,,469000.0,Femenino,Universitario,No,Baja
+18.0,Puerto Montt,78.8,597000.0,Otro,,No,Moderada
+33.0,Iquique,106.7,547000.0,Masculino,Técnico,Sí,Baja
+78.0,sin información,52.4,409000.0,Otro,Básica,No,Alta
+56.0,Antofagasta,53.9,341000.0,Femenino,Básica,Sí,Moderada
+22.0,Antofagasta,,362000.0,Masculino,Universitario,No,
+39.0,Temuco,65.6,544000.0,Femenino,,,Baja
+,Antofagasta,86.5,492000.0,Otro,Media,No,Alta
+72.0,Talca,54.5,691000.0,Masculino,Universitario,Sí,Moderada
+20.0,Iquique,86.7,619000.0,Otro,Técnico,No,Baja
+29.0,sin información,70.5,618000.0,Femenino,Técnico,No,Alta
+43.0,Iquique,,539000.0,Femenino,Universitario,No,Baja
+33.0,Puerto Montt,43.7,,Femenino,Universitario,No,Alta
+68.0,Iquique,47.1,549000.0,,Básica,No,Baja
+54.0,Talca,60.0,510000.0,Otro,,No,Baja
+39.0,Iquique,67.5,329000.0,Otro,Básica,No,Alta
+74.0,Puerto Montt,90.2,,Femenino,Media,Sí,Moderada
+46.0,Puerto Montt,82.0,665000.0,Otro,Universitario,No,Alta
+31.0,Santiago,57.4,328000.0,Masculino,Técnico,No,Moderada
+45.0,Iquique,76.1,404000.0,Femenino,Universitario,No,Baja
+22.0,Temuco,94.8,418000.0,Femenino,Técnico,Sí,Baja
+64.0,La Serena,98.1,591000.0,Femenino,Media,Sí,Alta
+66.0,Valparaíso,65.3,574000.0,Masculino,Universitario,No,
+47.0,Puerto Montt,84.4,507000.0,Femenino,Técnico,Sí,Moderada
+63.0,Concepción,90.8,541000.0,Femenino,Técnico,No,Moderada
+,La Serena,47.4,307000.0,Femenino,Básica,No,Moderada
+,sin información,62.3,557000.0,Femenino,Media,Sí,Alta
+22.0,Iquique,103.3,485000.0,Otro,Universitario,No,Baja
+29.0,Talca,65.5,398000.0,Femenino,Básica,Sí,
+,Valparaíso,26.1,270000.0,Masculino,Media,Sí,Baja
+43.0,Concepción,68.2,504000.0,Femenino,Básica,Sí,Alta
+43.0,La Serena,86.9,554000.0,Femenino,Universitario,,Alta
+65.0,Iquique,70.1,,Otro,Técnico,No,Moderada
+38.0,Santiago,80.7,503000.0,Femenino,Universitario,No,Baja
+56.0,Rancagua,,518000.0,Otro,Media,No,Alta
+53.0,Valparaíso,64.7,417000.0,Masculino,Universitario,No,Alta
+50.0,Temuco,62.2,557000.0,Otro,Media,No,Baja
+79.0,Santiago,72.3,480000.0,Femenino,Básica,No,
+47.0,Concepción,72.7,542000.0,Masculino,Media,Sí,Baja
+54.0,Valparaíso,70.8,580000.0,Femenino,Técnico,No,Moderada
+40.0,Santiago,71.4,580000.0,Otro,Técnico,No,Moderada
+75.0,Rancagua,58.8,653000.0,Masculino,Técnico,No,Baja
+27.0,Temuco,81.3,551000.0,Masculino,Básica,Sí,Moderada
+71.0,Santiago,79.0,428000.0,Otro,Media,Sí,Baja
+22.0,Antofagasta,50.0,403000.0,Otro,Básica,Sí,Alta
+53.0,Temuco,64.2,,Masculino,Universitario,No,Alta
+51.0,Concepción,,523000.0,Masculino,Universitario,Sí,Baja
+69.0,Rancagua,62.0,698000.0,,Universitario,Sí,Alta
+48.0,Iquique,79.6,446000.0,Femenino,Universitario,No,Moderada
+27.0,Talca,69.0,,Masculino,Técnico,No,Alta
+75.0,Talca,72.5,,Otro,Media,No,Alta
+36.0,Talca,64.0,529000.0,Femenino,Técnico,Sí,
+75.0,Valparaíso,,689000.0,Masculino,Media,No,Moderada
+49.0,Concepción,39.2,603000.0,Masculino,Media,No,Alta
+18.0,Rancagua,78.8,264000.0,Otro,,No,Alta
+73.0,Temuco,74.0,586000.0,Femenino,Universitario,No,Baja
+22.0,Valparaíso,76.6,592000.0,Masculino,Media,No,Baja
+62.0,Concepción,72.0,,Femenino,Universitario,No,Moderada
+21.0,Iquique,73.2,,Femenino,Universitario,Sí,Alta
+33.0,Antofagasta,84.5,375000.0,Masculino,Universitario,No,Baja
+41.0,Rancagua,76.7,509000.0,Femenino,Técnico,Sí,Baja
+33.0,Talca,85.6,667000.0,Masculino,Universitario,Sí,Baja
+72.0,Santiago,72.6,653000.0,Femenino,Media,No,
+19.0,Rancagua,65.5,582000.0,Masculino,Técnico,Sí,Baja
+66.0,Puerto Montt,72.9,368000.0,Otro,Universitario,Sí,Moderada
+45.0,Concepción,57.5,344000.0,Masculino,Básica,Sí,Moderada
+49.0,La Serena,64.3,517000.0,Masculino,Universitario,No,Alta
+44.0,Iquique,72.7,527000.0,Masculino,Universitario,Sí,
+37.0,Antofagasta,72.5,485000.0,Femenino,Técnico,Sí,Moderada
+41.0,Iquique,68.4,379000.0,Otro,Media,Sí,Alta
+29.0,Rancagua,49.2,566000.0,Femenino,Universitario,Sí,Alta
+67.0,sin información,79.5,517000.0,Femenino,Técnico,No,Baja
+52.0,Puerto Montt,82.5,543000.0,Masculino,Técnico,No,Alta
+77.0,Temuco,94.7,,Femenino,Media,Sí,Moderada
+50.0,Santiago,76.6,459000.0,Masculino,Técnico,No,Alta
+50.0,La Serena,70.0,427000.0,Otro,Media,No,Baja
+78.0,Concepción,54.8,666000.0,Femenino,Básica,Sí,Moderada
+68.0,Talca,92.4,386000.0,Femenino,Universitario,No,Alta
+60.0,Puerto Montt,,430000.0,Femenino,Técnico,No,Moderada
+54.0,Santiago,72.9,685000.0,Masculino,Básica,Sí,Alta
+29.0,Antofagasta,66.2,418000.0,Masculino,Técnico,Sí,Baja
+20.0,Talca,65.2,485000.0,Femenino,Técnico,No,Alta
+18.0,Rancagua,80.3,438000.0,Femenino,Básica,,Moderada
+50.0,La Serena,54.7,233000.0,Otro,Técnico,No,Moderada
+57.0,Santiago,94.4,482000.0,Otro,Técnico,No,Moderada
+27.0,Valparaíso,,348000.0,Otro,Básica,,Alta
+60.0,Temuco,64.7,538000.0,Otro,Técnico,Sí,Alta
+61.0,Temuco,57.0,,Otro,Media,Sí,Alta
+46.0,Puerto Montt,39.8,168000.0,Masculino,Técnico,Sí,Baja
+30.0,Antofagasta,51.2,439000.0,Otro,Universitario,Sí,Baja
+29.0,sin información,80.9,568000.0,Otro,Técnico,No,Baja
+48.0,Valparaíso,74.7,172000.0,Femenino,Universitario,No,Moderada
+63.0,Concepción,77.4,700000.0,Masculino,Universitario,Sí,Moderada
+19.0,Antofagasta,,557000.0,Otro,Técnico,Sí,Moderada
+78.0,Iquique,64.1,662000.0,Otro,Básica,Sí,Moderada
+68.0,sin información,90.5,415000.0,Otro,Media,No,Moderada
+67.0,Antofagasta,68.6,,Femenino,Media,No,Alta
+52.0,Antofagasta,50.9,476000.0,,Técnico,,
+40.0,Valparaíso,68.3,821000.0,Femenino,Básica,Sí,Alta
+34.0,Rancagua,58.4,698000.0,Otro,Básica,Sí,Baja
+43.0,Valparaíso,75.0,,Femenino,Media,Sí,Baja
+25.0,Antofagasta,70.3,538000.0,,Básica,Sí,Baja
+46.0,Santiago,78.1,595000.0,Masculino,Técnico,Sí,Baja
+43.0,Concepción,51.7,,Otro,Técnico,No,Baja
+27.0,Valparaíso,63.3,557000.0,Femenino,Básica,Sí,Moderada
+43.0,Rancagua,86.4,507000.0,Masculino,Técnico,No,Moderada
+79.0,La Serena,49.7,449000.0,Otro,Universitario,No,Moderada
+51.0,Puerto Montt,55.0,535000.0,Masculino,Media,No,Baja
+,Antofagasta,73.0,,Masculino,Técnico,No,Baja
+58.0,Iquique,74.3,574000.0,Masculino,Básica,No,Alta
+,La Serena,62.7,285000.0,Otro,Media,,Moderada
+21.0,Temuco,65.8,461000.0,Femenino,Técnico,Sí,Baja
+75.0,Talca,78.0,610000.0,Otro,,Sí,
+70.0,Rancagua,82.7,555000.0,Femenino,,No,Baja
+67.0,Iquique,54.0,431000.0,Otro,Universitario,No,Alta
+62.0,Talca,75.5,465000.0,Otro,Universitario,No,Baja
+28.0,Rancagua,92.7,655000.0,Otro,Técnico,No,Alta
+46.0,Santiago,68.3,318000.0,Femenino,Universitario,No,
+73.0,Puerto Montt,53.8,319000.0,Otro,Técnico,No,Moderada
+53.0,La Serena,53.1,361000.0,Masculino,Media,Sí,Baja
+42.0,Concepción,67.6,498000.0,Otro,Técnico,No,Alta
+38.0,Rancagua,85.5,296000.0,Masculino,Técnico,No,Baja
+78.0,Concepción,69.4,643000.0,Femenino,Técnico,Sí,Moderada
+74.0,Puerto Montt,72.8,361000.0,Femenino,Universitario,No,Moderada
+53.0,sin información,55.1,534000.0,Otro,Técnico,Sí,Alta
+27.0,Temuco,84.7,413000.0,Otro,,Sí,Moderada
+54.0,La Serena,52.8,490000.0,Otro,Técnico,Sí,Moderada
+26.0,Puerto Montt,62.4,259000.0,Masculino,Media,No,
+41.0,Puerto Montt,79.4,650000.0,Femenino,Básica,Sí,Baja
+52.0,Santiago,,,Masculino,Media,Sí,Baja
+66.0,Talca,72.6,340000.0,Masculino,Media,No,Alta
+52.0,Temuco,54.4,857000.0,Otro,,Sí,Alta
+65.0,La Serena,70.2,583000.0,Otro,Básica,No,Moderada
+53.0,Antofagasta,64.7,644000.0,Masculino,Básica,No,Moderada
+35.0,Antofagasta,101.6,569000.0,Masculino,Universitario,Sí,
+66.0,Valparaíso,64.1,432000.0,Otro,Básica,No,Moderada
+56.0,Puerto Montt,97.6,304000.0,Otro,Técnico,No,Alta
+49.0,Rancagua,78.8,455000.0,Masculino,Media,Sí,Baja
+41.0,Santiago,58.0,,,Universitario,Sí,Moderada
+40.0,Temuco,,362000.0,Otro,Básica,Sí,
+79.0,Antofagasta,65.4,,Masculino,Media,Sí,
+49.0,La Serena,73.6,517000.0,Masculino,Básica,No,Baja
+54.0,Valparaíso,59.3,736000.0,Femenino,Universitario,Sí,Baja
+29.0,La Serena,95.4,584000.0,Masculino,Básica,Sí,Moderada
+66.0,Santiago,83.9,484000.0,Otro,Básica,Sí,Alta
+72.0,Rancagua,,494000.0,Masculino,Media,No,Baja
+30.0,Valparaíso,95.9,43000.0,,Técnico,No,Moderada
+40.0,sin información,71.1,436000.0,Masculino,Básica,No,Moderada
+42.0,Talca,86.5,286000.0,Femenino,,No,Baja
+52.0,Temuco,70.6,520000.0,Femenino,Básica,No,Alta
+58.0,Valparaíso,75.9,461000.0,Otro,Básica,Sí,Moderada
+47.0,Talca,68.8,370000.0,Femenino,Técnico,No,Alta
+,Talca,71.4,517000.0,Masculino,Media,No,Alta
+66.0,sin información,72.6,515000.0,Femenino,Universitario,No,Baja
+79.0,Concepción,60.0,728000.0,Masculino,,Sí,Moderada
+37.0,La Serena,64.0,603000.0,Femenino,Media,Sí,Moderada
+65.0,Rancagua,66.7,533000.0,Femenino,Media,No,
+42.0,Iquique,73.4,358000.0,Femenino,Básica,Sí,Baja
+39.0,La Serena,69.5,339000.0,Masculino,Técnico,No,Baja
+30.0,Valparaíso,87.6,590000.0,,Básica,Sí,Baja
+76.0,Rancagua,82.7,470000.0,Masculino,,Sí,Alta
+36.0,Antofagasta,67.1,537000.0,Masculino,Técnico,No,Alta
+66.0,Concepción,90.7,647000.0,Otro,Media,Sí,Moderada
+53.0,Antofagasta,98.1,,Femenino,Técnico,No,
+29.0,Antofagasta,39.3,710000.0,Otro,Universitario,No,Alta
+,Temuco,84.0,645000.0,Otro,Básica,No,
+58.0,La Serena,59.6,192000.0,Masculino,Básica,Sí,
+36.0,Iquique,82.0,853000.0,Femenino,Media,Sí,Moderada
+29.0,Santiago,88.6,548000.0,Masculino,,No,Baja
+26.0,Iquique,56.8,428000.0,Masculino,,No,Alta
+24.0,Antofagasta,42.2,578000.0,Femenino,Universitario,Sí,Baja
+45.0,Valparaíso,82.5,353000.0,Masculino,Técnico,No,Alta
+31.0,Concepción,72.0,582000.0,Femenino,Básica,Sí,
+48.0,Puerto Montt,45.0,381000.0,Femenino,Universitario,Sí,Alta
+69.0,Iquique,107.9,803000.0,Masculino,Universitario,Sí,
+36.0,sin información,79.4,509000.0,Masculino,Media,No,Alta
+75.0,Concepción,80.1,597000.0,Otro,Universitario,No,Moderada
+64.0,Rancagua,90.5,382000.0,Masculino,Media,Sí,Baja
+33.0,sin información,61.3,622000.0,Femenino,Básica,No,Moderada
+70.0,Talca,72.0,498000.0,Otro,Media,No,Moderada
+22.0,Temuco,50.2,288000.0,Femenino,Universitario,Sí,
+52.0,Concepción,60.9,464000.0,,Técnico,Sí,Alta
+29.0,Valparaíso,75.8,790000.0,Masculino,Técnico,No,Moderada
+42.0,Valparaíso,45.0,629000.0,Masculino,Básica,Sí,Baja
+,Concepción,60.5,443000.0,Masculino,Básica,No,Alta
+76.0,Valparaíso,56.1,220000.0,Femenino,Técnico,Sí,Baja
+38.0,La Serena,72.1,375000.0,Otro,Media,Sí,
+53.0,Valparaíso,78.6,289000.0,Femenino,Básica,No,Baja
+70.0,Iquique,81.1,223000.0,Otro,Universitario,No,Alta
+40.0,Talca,85.0,618000.0,Masculino,Básica,No,Moderada
+33.0,Valparaíso,90.6,509000.0,Femenino,Media,No,Moderada
+74.0,Talca,79.1,769000.0,Masculino,Básica,No,Baja
+56.0,Antofagasta,98.3,350000.0,Femenino,,Sí,Baja
+,Santiago,71.8,500000.0,Masculino,Universitario,Sí,Alta
+70.0,sin información,67.4,291000.0,Femenino,Universitario,No,Baja
+59.0,Santiago,79.1,411000.0,Femenino,Media,,Baja
+,Antofagasta,66.8,467000.0,Otro,Media,No,Baja
+56.0,La Serena,97.8,444000.0,Masculino,Universitario,Sí,Moderada
+31.0,Concepción,87.0,508000.0,Otro,,Sí,
+48.0,Concepción,81.3,646000.0,,Media,No,Moderada
+75.0,Talca,72.0,630000.0,Masculino,Media,No,Alta
+22.0,sin información,63.9,385000.0,Femenino,,No,Alta
+52.0,Talca,80.5,495000.0,Otro,Técnico,Sí,Moderada
+40.0,Temuco,53.1,619000.0,Masculino,Media,No,Moderada
+46.0,Valparaíso,93.0,655000.0,Femenino,Universitario,,Moderada
+60.0,Puerto Montt,67.3,401000.0,Otro,Técnico,No,Moderada
+28.0,Temuco,74.6,606000.0,Otro,Media,No,Baja
+35.0,Valparaíso,56.4,550000.0,Otro,Universitario,No,Moderada
+64.0,La Serena,80.8,340000.0,Femenino,Básica,No,Moderada
+29.0,Talca,63.2,620000.0,Otro,Técnico,Sí,Moderada
+26.0,La Serena,79.7,523000.0,,Universitario,,Baja
+27.0,La Serena,81.4,239000.0,,Básica,Sí,Baja
+75.0,Valparaíso,60.3,456000.0,Masculino,Universitario,Sí,Baja
+61.0,Antofagasta,53.1,506000.0,Otro,Media,No,Alta
+34.0,Valparaíso,93.0,409000.0,Masculino,Media,,Baja
+78.0,Rancagua,67.1,684000.0,Masculino,Básica,Sí,
+55.0,Concepción,73.4,690000.0,Masculino,,Sí,Baja
+24.0,Concepción,77.3,443000.0,Femenino,,Sí,Baja
+63.0,Temuco,51.2,426000.0,Masculino,Básica,No,Moderada
+30.0,Concepción,76.9,480000.0,Otro,,No,Baja
+57.0,Valparaíso,71.5,470000.0,Femenino,Universitario,No,Alta
+59.0,Iquique,60.3,411000.0,Masculino,Universitario,Sí,Baja
+26.0,sin información,52.7,-56000.0,Femenino,Media,Sí,Alta
+67.0,Valparaíso,,763000.0,,Media,,Alta
+44.0,Valparaíso,86.9,500000.0,Femenino,Universitario,Sí,
+75.0,Puerto Montt,72.7,473000.0,Otro,Técnico,Sí,Moderada
+19.0,sin información,48.5,549000.0,Masculino,Universitario,No,Baja
+22.0,Rancagua,54.1,488000.0,Femenino,Universitario,No,Alta
+46.0,Concepción,63.5,435000.0,Femenino,Básica,No,Alta
+54.0,Talca,93.5,349000.0,Femenino,Universitario,No,Baja
+55.0,Concepción,66.3,224000.0,,Media,No,Moderada
+36.0,Temuco,63.0,297000.0,Femenino,Básica,Sí,Moderada
+25.0,Talca,44.9,332000.0,,Técnico,No,Alta
+65.0,Concepción,60.1,598000.0,Otro,Básica,Sí,
+62.0,Rancagua,51.5,609000.0,Masculino,Técnico,No,
+18.0,Santiago,55.0,368000.0,Otro,Básica,Sí,Moderada
+39.0,La Serena,71.8,100000.0,Masculino,Básica,Sí,Baja
+69.0,sin información,64.0,501000.0,Masculino,Técnico,Sí,Alta
+34.0,Rancagua,95.5,437000.0,Masculino,Media,Sí,Baja
+24.0,Puerto Montt,86.2,433000.0,Otro,Media,Sí,Alta
+42.0,Santiago,60.9,643000.0,Otro,Media,Sí,Baja
+62.0,Temuco,56.2,521000.0,Otro,Básica,No,
+21.0,sin información,90.7,354000.0,Otro,Universitario,Sí,Moderada
+53.0,La Serena,94.9,319000.0,Femenino,Básica,Sí,Baja
+23.0,La Serena,37.1,461000.0,Femenino,Universitario,No,
+,La Serena,71.4,364000.0,Femenino,Universitario,,Baja
+48.0,sin información,66.2,489000.0,Masculino,Media,No,Alta
+36.0,sin información,79.7,654000.0,Femenino,Universitario,No,Alta
+78.0,Valparaíso,99.1,293000.0,Masculino,Básica,Sí,Baja
+61.0,Temuco,62.7,513000.0,Otro,Básica,,Moderada
+71.0,La Serena,39.1,637000.0,Masculino,Media,No,Baja
+56.0,Concepción,78.7,,Masculino,Técnico,Sí,Baja
+44.0,Rancagua,90.8,608000.0,Femenino,Básica,No,Moderada
+27.0,sin información,65.4,457000.0,Otro,Universitario,Sí,
+43.0,Rancagua,59.4,526000.0,Otro,Básica,No,Baja
+36.0,Temuco,63.4,,Femenino,Básica,Sí,Moderada
+56.0,Antofagasta,82.8,414000.0,Otro,Básica,Sí,Moderada
+79.0,Temuco,63.2,799000.0,Otro,Técnico,No,Alta
+20.0,Rancagua,74.9,587000.0,Otro,Universitario,No,Moderada
+62.0,sin información,70.4,695000.0,Femenino,,No,Alta
+30.0,Temuco,68.9,661000.0,Otro,Básica,No,Baja
+,Antofagasta,80.5,549000.0,Masculino,Universitario,Sí,Moderada
+45.0,Antofagasta,62.8,708000.0,Masculino,,No,Baja
+79.0,Temuco,63.5,528000.0,Otro,Media,No,Moderada
+75.0,Iquique,82.0,391000.0,Femenino,Básica,Sí,Moderada
+37.0,Rancagua,55.2,502000.0,Femenino,Técnico,Sí,Baja
+45.0,Iquique,56.8,349000.0,Femenino,Universitario,No,Moderada
+25.0,sin información,51.1,185000.0,Otro,Media,Sí,Baja
+78.0,Rancagua,82.7,372000.0,Otro,Técnico,No,Baja
+58.0,Temuco,68.4,511000.0,Masculino,Universitario,Sí,Alta
+56.0,Santiago,50.3,659000.0,Femenino,Básica,No,Baja
+18.0,Temuco,82.8,,Masculino,Universitario,Sí,Alta
+20.0,Iquique,61.7,652000.0,Masculino,Técnico,No,Baja
+30.0,sin información,56.9,318000.0,Femenino,Técnico,,
+45.0,Temuco,67.1,362000.0,Otro,Básica,Sí,Baja
+79.0,Temuco,92.2,717000.0,Otro,Básica,Sí,Moderada
+74.0,sin información,64.1,507000.0,,Media,No,Alta
+77.0,Temuco,78.6,474000.0,Masculino,Básica,No,Moderada
+66.0,La Serena,80.9,,Masculino,,Sí,
+42.0,Santiago,76.6,319000.0,Masculino,Técnico,Sí,Moderada
+73.0,Concepción,89.1,450000.0,Femenino,Técnico,Sí,Alta
+50.0,Santiago,59.4,500000.0,Masculino,Universitario,Sí,Moderada
+55.0,Temuco,54.3,685000.0,Masculino,Universitario,Sí,Moderada
+70.0,La Serena,54.1,249000.0,Otro,Media,Sí,Baja
+23.0,Rancagua,,764000.0,Otro,Básica,Sí,Baja
+75.0,Temuco,55.8,481000.0,Otro,Básica,Sí,Moderada
+61.0,Iquique,72.2,333000.0,Femenino,Universitario,Sí,Alta
+62.0,La Serena,71.2,,,Técnico,No,Moderada
+,Valparaíso,85.3,541000.0,Otro,Media,Sí,Alta
+62.0,La Serena,74.4,298000.0,Otro,Técnico,Sí,Alta
+78.0,Valparaíso,63.8,416000.0,Masculino,Técnico,No,Alta
+64.0,Puerto Montt,76.2,463000.0,Masculino,Básica,No,Moderada
+38.0,Concepción,54.5,672000.0,Femenino,Media,No,Alta
+33.0,Talca,69.4,653000.0,Femenino,Técnico,No,Moderada
+71.0,La Serena,,404000.0,Masculino,Universitario,No,Alta
+38.0,Antofagasta,71.9,468000.0,,Universitario,No,Alta
+28.0,Iquique,76.2,261000.0,Masculino,Básica,Sí,Moderada
+,Temuco,60.3,194000.0,Femenino,Universitario,No,Baja
+54.0,Iquique,87.3,316000.0,,,No,Baja
+53.0,Santiago,97.3,668000.0,Masculino,Técnico,No,Moderada
+52.0,Talca,46.0,617000.0,Masculino,Universitario,Sí,Moderada
+36.0,Santiago,51.8,558000.0,Masculino,Universitario,No,Baja
+37.0,Puerto Montt,70.6,281000.0,Femenino,Técnico,Sí,Baja
+74.0,Talca,66.2,393000.0,Otro,Básica,,Baja
+35.0,Talca,98.4,371000.0,Masculino,Básica,No,Moderada
+64.0,Santiago,73.3,475000.0,Femenino,Media,Sí,Alta
+58.0,Valparaíso,90.9,466000.0,Femenino,Universitario,Sí,Moderada
+66.0,Santiago,39.3,350000.0,Femenino,Técnico,No,Baja
+31.0,Iquique,82.2,,Masculino,Media,Sí,Alta
+32.0,Valparaíso,59.3,534000.0,Masculino,Básica,,Moderada
+,Iquique,59.0,391000.0,Otro,Básica,No,Baja
+18.0,Puerto Montt,66.3,546000.0,Femenino,Técnico,No,Moderada
+70.0,Temuco,,669000.0,Masculino,Media,No,Alta
+71.0,Rancagua,76.6,714000.0,Femenino,Media,Sí,Baja
+71.0,Valparaíso,,574000.0,Femenino,Técnico,No,Moderada
+20.0,Puerto Montt,74.0,569000.0,,Técnico,No,Alta
+33.0,Antofagasta,83.3,464000.0,Masculino,Media,Sí,Alta
+40.0,Puerto Montt,92.7,654000.0,Masculino,Básica,Sí,Moderada
+74.0,Santiago,64.5,339000.0,Femenino,Universitario,No,Alta
+28.0,Santiago,77.2,637000.0,Femenino,Básica,Sí,Baja
+29.0,Rancagua,74.4,457000.0,Otro,,No,Alta
+27.0,Puerto Montt,75.7,,Otro,Media,Sí,Moderada
+49.0,Concepción,75.9,588000.0,Otro,,No,
+33.0,Temuco,93.9,490000.0,,Universitario,Sí,Alta
+25.0,Santiago,63.1,465000.0,Otro,Media,,Alta
+55.0,sin información,47.1,579000.0,Otro,Universitario,,Baja
+29.0,Temuco,59.5,572000.0,Femenino,Básica,Sí,Baja
+41.0,Puerto Montt,81.4,440000.0,Otro,Básica,No,Alta
+,sin información,70.3,514000.0,Femenino,Media,,Baja
+70.0,Talca,63.0,634000.0,Femenino,Media,No,Moderada
+25.0,Rancagua,53.9,295000.0,Masculino,Técnico,Sí,Alta
+75.0,Santiago,73.3,609000.0,Femenino,Técnico,Sí,
+45.0,Concepción,79.7,578000.0,Femenino,,No,Alta
+53.0,Puerto Montt,74.6,678000.0,Otro,Media,Sí,Moderada
+43.0,Concepción,66.2,393000.0,Femenino,Básica,Sí,
+25.0,Puerto Montt,72.2,501000.0,Otro,Media,,Baja
+75.0,Santiago,72.1,531000.0,Otro,Técnico,Sí,Alta
+77.0,Temuco,72.8,611000.0,Otro,Básica,No,Baja
+67.0,La Serena,52.2,564000.0,Masculino,Universitario,Sí,Baja
+45.0,Temuco,73.0,314000.0,Otro,Técnico,Sí,Alta
+45.0,Puerto Montt,63.4,544000.0,Femenino,Técnico,Sí,Moderada
+54.0,Iquique,85.6,801000.0,Otro,Básica,No,Alta
+58.0,La Serena,72.0,592000.0,Otro,Universitario,Sí,Alta
+53.0,La Serena,82.5,746000.0,Otro,,Sí,Alta
+44.0,Concepción,65.5,656000.0,Masculino,Media,Sí,Baja
+71.0,Rancagua,66.0,704000.0,Femenino,Técnico,Sí,Alta
+34.0,Concepción,92.4,,Masculino,Básica,Sí,
+26.0,Concepción,76.5,578000.0,Femenino,Básica,Sí,Alta
+50.0,sin información,59.3,538000.0,Masculino,Básica,Sí,Moderada
+70.0,Temuco,83.5,501000.0,Femenino,Técnico,Sí,Moderada
+37.0,Temuco,,611000.0,Masculino,Universitario,Sí,Moderada
+30.0,Antofagasta,73.4,422000.0,Otro,Media,No,Moderada
+45.0,Puerto Montt,97.6,783000.0,Masculino,Básica,Sí,
+65.0,sin información,48.5,361000.0,Masculino,Universitario,No,Baja
+46.0,Antofagasta,67.4,622000.0,,Media,No,Alta
+30.0,Santiago,76.1,707000.0,Otro,,No,Baja
+,Puerto Montt,81.5,,Femenino,Media,,Moderada
+52.0,Puerto Montt,51.4,333000.0,Femenino,Media,No,Alta
+78.0,Talca,47.0,673000.0,Femenino,Universitario,No,Alta
+23.0,Talca,86.4,531000.0,Masculino,Media,No,Moderada
+35.0,Valparaíso,59.2,,Femenino,Básica,Sí,Moderada
+68.0,Valparaíso,,,Masculino,Universitario,No,Moderada
+22.0,Concepción,93.3,760000.0,Masculino,Técnico,Sí,
+64.0,Santiago,71.0,182000.0,Femenino,Técnico,No,Alta
+42.0,La Serena,71.1,556000.0,Femenino,Universitario,,Moderada
+19.0,La Serena,,701000.0,Masculino,Técnico,Sí,Alta
+27.0,Talca,51.6,516000.0,Otro,Media,Sí,Alta
+73.0,sin información,80.1,,Otro,Básica,No,Baja
+,Talca,76.1,435000.0,Masculino,Media,No,Alta
+67.0,Iquique,72.5,503000.0,Femenino,Universitario,No,Moderada
+76.0,sin información,68.3,249000.0,Masculino,Básica,Sí,Moderada
+62.0,Valparaíso,,392000.0,,Universitario,Sí,Alta
+22.0,Iquique,83.7,382000.0,Femenino,Universitario,No,Alta
+72.0,Temuco,67.9,600000.0,Otro,Universitario,No,Baja
+73.0,La Serena,69.0,414000.0,Masculino,Media,Sí,Moderada
+,Puerto Montt,77.9,419000.0,Otro,Básica,Sí,
+71.0,Valparaíso,73.1,443000.0,Otro,,No,Alta
+18.0,Antofagasta,94.6,388000.0,Femenino,Básica,Sí,Alta
+35.0,Temuco,43.6,540000.0,Masculino,Media,No,Alta
+49.0,sin información,,557000.0,Masculino,Técnico,,Moderada
+64.0,Iquique,59.4,624000.0,Otro,Media,No,Alta
+66.0,Santiago,55.9,598000.0,Otro,Media,No,Baja
+28.0,Puerto Montt,63.1,583000.0,Femenino,Universitario,No,Baja
+38.0,Valparaíso,70.8,451000.0,Otro,Básica,Sí,Alta
+43.0,sin información,71.5,441000.0,Femenino,Básica,No,Baja
+42.0,Talca,47.2,369000.0,Masculino,Técnico,No,Baja
+39.0,Talca,61.9,367000.0,Femenino,Técnico,Sí,
+76.0,Puerto Montt,74.2,529000.0,Otro,Universitario,,
+44.0,Iquique,56.8,392000.0,Masculino,Básica,No,Baja
+66.0,Talca,53.3,720000.0,,Técnico,No,Moderada
+30.0,Valparaíso,36.2,494000.0,Masculino,Técnico,Sí,Alta
+,Antofagasta,60.1,725000.0,Femenino,Básica,Sí,Baja
+51.0,La Serena,52.8,586000.0,Otro,Media,Sí,
+58.0,La Serena,55.2,383000.0,Otro,Técnico,Sí,Baja
+52.0,Temuco,65.9,491000.0,Masculino,Básica,No,Moderada
+18.0,Concepción,61.0,249000.0,Masculino,Técnico,Sí,Moderada
+,Santiago,52.5,529000.0,Masculino,Universitario,Sí,Baja
+65.0,Puerto Montt,38.3,397000.0,Femenino,Técnico,Sí,Baja
+72.0,Temuco,,333000.0,,Básica,No,Baja
+23.0,Concepción,81.3,728000.0,Masculino,Técnico,No,Moderada
+45.0,Iquique,64.0,655000.0,Masculino,Universitario,No,Moderada
+34.0,Rancagua,66.0,650000.0,Masculino,Universitario,Sí,Alta
+22.0,Rancagua,70.0,617000.0,Femenino,Técnico,No,Moderada
+48.0,Santiago,93.7,315000.0,Masculino,Técnico,No,Baja
+22.0,Talca,46.5,440000.0,Masculino,Universitario,Sí,Alta
+55.0,Valparaíso,63.8,449000.0,Femenino,Universitario,No,Moderada
+20.0,sin información,44.2,244000.0,Femenino,Media,Sí,Moderada
+70.0,Temuco,75.4,416000.0,Masculino,Media,Sí,
+40.0,Puerto Montt,67.8,418000.0,Masculino,Universitario,No,Alta
+54.0,Puerto Montt,73.0,519000.0,Femenino,Técnico,,Moderada
+70.0,Rancagua,72.3,880000.0,Otro,Básica,Sí,Moderada
+54.0,Rancagua,84.9,497000.0,Femenino,Técnico,Sí,
+27.0,Antofagasta,78.1,519000.0,Otro,Técnico,Sí,Alta
+27.0,Antofagasta,82.5,462000.0,Masculino,Media,Sí,Alta
+36.0,Talca,54.0,611000.0,Masculino,Media,Sí,
+34.0,Antofagasta,87.9,339000.0,Otro,Media,No,Alta
+38.0,Valparaíso,59.2,784000.0,Femenino,Universitario,Sí,Baja
+31.0,Valparaíso,,481000.0,Masculino,Universitario,Sí,Moderada
+26.0,sin información,74.1,441000.0,Otro,Técnico,Sí,Moderada
+63.0,La Serena,74.5,646000.0,,Técnico,Sí,Alta
+18.0,Valparaíso,53.9,366000.0,Otro,Básica,No,Alta
+,Concepción,67.4,608000.0,Femenino,Técnico,No,Alta
+62.0,Rancagua,92.3,711000.0,Femenino,Técnico,Sí,Moderada
+30.0,Puerto Montt,48.0,464000.0,Femenino,Media,No,
+21.0,Antofagasta,92.3,808000.0,Femenino,Media,Sí,Alta
+79.0,Temuco,,597000.0,Otro,Media,Sí,Baja
+18.0,Santiago,34.9,599000.0,Otro,Media,Sí,Moderada
+66.0,sin información,49.5,705000.0,Otro,Media,Sí,Moderada
+57.0,Concepción,55.5,745000.0,Otro,Básica,No,Alta
+49.0,Antofagasta,60.6,539000.0,Otro,Básica,No,Baja
+51.0,Concepción,,620000.0,Femenino,Básica,Sí,Alta
+45.0,Rancagua,,709000.0,Masculino,Media,Sí,Alta
+48.0,Rancagua,72.8,326000.0,Masculino,Universitario,No,Baja
+,Talca,54.2,241000.0,Otro,Media,No,Baja
+56.0,Temuco,90.9,,Otro,Media,,Baja
+43.0,Puerto Montt,65.9,237000.0,Masculino,Básica,No,Moderada
+75.0,Iquique,84.1,453000.0,Femenino,Media,Sí,Alta
+51.0,Iquique,86.7,547000.0,Otro,Básica,No,Moderada
+71.0,Puerto Montt,86.2,459000.0,Femenino,Media,No,Baja
+71.0,Santiago,61.5,479000.0,Masculino,Técnico,,Moderada
+,sin información,61.3,350000.0,Masculino,Universitario,No,Baja
+76.0,sin información,66.6,618000.0,Otro,Universitario,Sí,Baja
+67.0,Santiago,,,Femenino,Básica,Sí,Alta
+29.0,La Serena,62.3,185000.0,,Técnico,No,Alta
+18.0,Puerto Montt,68.2,469000.0,Masculino,Universitario,,Alta
+71.0,Concepción,74.1,637000.0,Femenino,Básica,,Moderada
+61.0,Iquique,56.4,512000.0,Otro,Media,No,Alta
+22.0,sin información,55.5,325000.0,Otro,Media,Sí,Baja
+47.0,Talca,67.6,515000.0,Otro,Técnico,Sí,Alta
+47.0,Iquique,69.6,566000.0,Masculino,Universitario,Sí,Moderada
+76.0,Temuco,76.5,,Otro,Media,No,Alta
+74.0,Rancagua,80.1,460000.0,Femenino,Básica,Sí,Alta
+34.0,Valparaíso,53.5,573000.0,Otro,Media,Sí,
+65.0,Talca,57.8,239000.0,Masculino,Media,Sí,
+64.0,Talca,55.4,366000.0,Otro,Universitario,Sí,Baja
+40.0,La Serena,91.2,304000.0,Masculino,Universitario,No,Baja
+32.0,sin información,68.2,702000.0,Masculino,Básica,No,Baja
+54.0,Antofagasta,70.2,607000.0,Femenino,Técnico,No,
+38.0,Iquique,70.9,528000.0,Femenino,Técnico,No,Alta
+31.0,Iquique,59.3,282000.0,Otro,,No,Moderada
+19.0,Iquique,93.5,612000.0,Masculino,Básica,No,
+28.0,Antofagasta,76.2,,,Técnico,,Alta
+68.0,Santiago,70.6,586000.0,Femenino,Técnico,Sí,Alta
+,Talca,53.4,495000.0,Femenino,Media,No,Alta
+55.0,Valparaíso,52.6,595000.0,Otro,Básica,No,
+77.0,Temuco,65.4,541000.0,Masculino,Técnico,No,Baja
+51.0,Talca,59.5,639000.0,Femenino,,No,Moderada
+55.0,La Serena,,636000.0,Otro,Universitario,Sí,Baja
+67.0,sin información,64.4,467000.0,Masculino,Media,No,Baja
+51.0,sin información,66.8,401000.0,Masculino,Media,No,Alta
+35.0,Antofagasta,72.1,440000.0,Femenino,Media,Sí,Alta
+47.0,Puerto Montt,62.4,580000.0,Otro,Media,No,Alta
+32.0,Concepción,54.9,449000.0,Femenino,Técnico,No,
+44.0,Temuco,55.4,387000.0,Otro,Básica,No,Alta
+68.0,Iquique,,500000.0,Masculino,Media,No,Baja
+51.0,La Serena,51.2,666000.0,Otro,Media,No,Alta
+69.0,La Serena,75.4,520000.0,Otro,Técnico,No,Alta
+74.0,La Serena,77.8,459000.0,Otro,Media,No,Moderada
+55.0,Iquique,68.2,548000.0,Otro,Media,Sí,Moderada
+50.0,Puerto Montt,96.5,513000.0,Otro,Básica,,Baja
+41.0,Antofagasta,77.5,210000.0,Femenino,Universitario,No,Baja
+32.0,Concepción,97.6,605000.0,Otro,Media,Sí,Moderada
+77.0,Iquique,60.2,561000.0,Otro,Técnico,No,Moderada
+,Temuco,60.5,502000.0,Masculino,Básica,Sí,Alta
+72.0,Antofagasta,77.9,659000.0,Otro,Técnico,No,Alta
+,Temuco,66.1,682000.0,Masculino,Básica,Sí,Baja
+68.0,Antofagasta,95.3,620000.0,Femenino,Básica,No,Moderada
+34.0,Puerto Montt,75.1,372000.0,,Media,Sí,Baja
+22.0,Rancagua,,378000.0,Otro,Media,Sí,
+46.0,Temuco,43.9,668000.0,Femenino,Media,No,Baja
+21.0,Iquique,68.8,218000.0,Otro,Universitario,No,Baja
+27.0,sin información,68.7,,Femenino,Universitario,Sí,Baja
+73.0,La Serena,74.7,566000.0,Otro,,Sí,
+34.0,sin información,88.2,237000.0,Otro,Media,No,Baja
+27.0,La Serena,86.2,535000.0,Masculino,Universitario,Sí,Alta
+34.0,Santiago,61.3,643000.0,Masculino,Media,No,Moderada
+,Rancagua,50.6,277000.0,Masculino,Universitario,,Baja
+37.0,Rancagua,51.5,749000.0,Masculino,Universitario,Sí,Baja
+41.0,La Serena,58.9,349000.0,Otro,Básica,No,Alta
+,Concepción,64.5,,Femenino,Media,No,Baja
+,Puerto Montt,74.6,487000.0,Otro,Media,No,Alta
+23.0,Temuco,58.0,510000.0,Masculino,Universitario,Sí,Baja
+70.0,Iquique,74.2,307000.0,Masculino,Media,Sí,Moderada
+19.0,sin información,75.4,689000.0,Femenino,Universitario,Sí,Moderada
+30.0,La Serena,72.2,549000.0,Masculino,Media,No,Moderada
+79.0,La Serena,53.1,743000.0,Otro,Básica,Sí,Baja
+60.0,Puerto Montt,77.0,311000.0,Otro,Media,Sí,Baja
+,Puerto Montt,101.2,473000.0,Otro,Básica,No,Moderada
+65.0,Valparaíso,73.7,531000.0,Otro,Técnico,Sí,Moderada
+28.0,sin información,25.7,509000.0,Otro,Media,Sí,Alta
+68.0,Concepción,88.6,600000.0,Femenino,Media,No,Alta
+64.0,Concepción,59.5,471000.0,Otro,Media,No,Moderada
+74.0,Santiago,104.0,818000.0,Masculino,Básica,No,Moderada
+40.0,Concepción,71.7,506000.0,Masculino,Media,No,Baja
+,Antofagasta,,67000.0,Masculino,Media,No,Moderada
+33.0,Puerto Montt,39.0,513000.0,Masculino,Universitario,No,Alta
+48.0,Iquique,93.1,689000.0,Femenino,Técnico,,Alta
+28.0,Antofagasta,86.6,362000.0,Masculino,,No,Alta
+71.0,Temuco,103.4,352000.0,Femenino,Universitario,No,Alta
+33.0,La Serena,70.2,374000.0,Masculino,Básica,Sí,
+25.0,Concepción,69.2,339000.0,Femenino,,No,Alta
+,La Serena,,428000.0,Femenino,Técnico,No,Moderada
+57.0,Rancagua,60.1,636000.0,Femenino,Universitario,Sí,Alta
+21.0,Santiago,64.1,,Masculino,Básica,No,Alta
+73.0,sin información,73.3,136000.0,Femenino,Media,Sí,Alta
+42.0,Santiago,57.3,443000.0,Otro,Media,Sí,Alta
+20.0,Valparaíso,45.0,545000.0,Otro,Técnico,No,Moderada
+49.0,La Serena,72.4,530000.0,Masculino,Básica,Sí,Baja
+20.0,Santiago,57.0,785000.0,Otro,Básica,No,
+44.0,Talca,21.4,198000.0,Otro,Básica,No,Baja
+,Antofagasta,78.3,112000.0,Otro,Técnico,Sí,Baja
+49.0,Santiago,53.4,809000.0,Masculino,Media,Sí,Alta
+67.0,sin información,79.9,613000.0,Masculino,Universitario,Sí,Baja
+78.0,Antofagasta,79.6,414000.0,Otro,Técnico,No,Baja
+75.0,La Serena,74.3,526000.0,Masculino,Universitario,No,Moderada
+68.0,La Serena,107.5,,Femenino,Media,Sí,Moderada
+36.0,Antofagasta,67.9,411000.0,Otro,Técnico,No,Moderada
+38.0,Rancagua,65.7,521000.0,Masculino,Media,No,Alta
+22.0,Talca,,553000.0,Masculino,Universitario,Sí,Alta
+35.0,Iquique,69.2,,,Básica,Sí,
+45.0,Temuco,87.4,645000.0,Masculino,,Sí,Moderada
+59.0,Talca,51.0,761000.0,Otro,Universitario,Sí,Baja
+78.0,La Serena,51.2,298000.0,Masculino,Básica,Sí,Moderada
+39.0,Iquique,81.5,448000.0,Femenino,Universitario,,
+38.0,sin información,52.5,536000.0,Otro,Técnico,Sí,
+23.0,Concepción,79.1,212000.0,Femenino,Técnico,Sí,Baja
+18.0,Santiago,75.6,677000.0,Otro,Técnico,Sí,Alta
+22.0,Antofagasta,59.6,596000.0,Masculino,Básica,Sí,Baja
+58.0,Antofagasta,75.5,445000.0,Femenino,Media,No,Baja
+29.0,Santiago,51.5,,Masculino,Básica,No,Alta
+43.0,Concepción,55.0,688000.0,Otro,Básica,Sí,Baja
+63.0,Temuco,66.4,381000.0,Otro,Media,No,Moderada
+51.0,Concepción,71.2,694000.0,Otro,Media,No,
+66.0,Iquique,65.4,462000.0,Otro,Media,No,Baja
+31.0,Concepción,76.5,613000.0,Otro,Media,No,
+43.0,Iquique,75.8,513000.0,Femenino,Básica,,Moderada
+62.0,Concepción,92.9,835000.0,Otro,Universitario,No,Baja
+44.0,Temuco,68.6,367000.0,Masculino,Técnico,Sí,Baja
+26.0,Temuco,87.9,414000.0,Femenino,Universitario,Sí,Moderada
+,La Serena,83.8,274000.0,Masculino,Básica,,
+74.0,Santiago,104.4,335000.0,Otro,Media,No,Alta
+64.0,Temuco,68.1,607000.0,Masculino,Técnico,Sí,Alta
+74.0,Iquique,63.7,740000.0,Femenino,Técnico,No,
+39.0,sin información,88.9,624000.0,Femenino,Universitario,,Alta
+64.0,La Serena,,499000.0,Femenino,Básica,,Moderada
+73.0,Antofagasta,89.2,366000.0,Masculino,Básica,No,Baja
+47.0,Iquique,80.8,635000.0,Femenino,Básica,No,Baja
+60.0,La Serena,38.4,358000.0,Masculino,Técnico,Sí,Baja
+65.0,Rancagua,75.6,298000.0,Otro,Universitario,Sí,Alta
+78.0,Rancagua,74.7,454000.0,Otro,Técnico,,Alta
+34.0,Valparaíso,72.0,195000.0,Masculino,Técnico,Sí,Alta
+43.0,Concepción,68.0,293000.0,Femenino,Media,,
+,Santiago,46.1,783000.0,,Universitario,No,Moderada
+18.0,Puerto Montt,83.1,265000.0,Masculino,Media,No,Baja
+25.0,Talca,75.6,322000.0,Masculino,Básica,No,Moderada
+,La Serena,86.5,511000.0,Otro,Técnico,No,Baja
+52.0,Antofagasta,,519000.0,Masculino,Universitario,No,
+78.0,Talca,77.6,,Otro,Básica,No,Baja
+69.0,Antofagasta,66.5,199000.0,Masculino,Universitario,No,Baja
+32.0,Talca,72.2,627000.0,Otro,Técnico,No,Moderada
+64.0,La Serena,66.7,434000.0,,Universitario,Sí,Moderada
+73.0,Puerto Montt,78.2,683000.0,Masculino,Básica,No,Moderada
+39.0,Talca,67.6,403000.0,Femenino,Media,Sí,Moderada
+31.0,sin información,54.2,,,Técnico,,Moderada
+43.0,Temuco,71.3,,,Media,No,Moderada
+45.0,Puerto Montt,66.8,430000.0,Masculino,,Sí,Moderada
+40.0,Iquique,68.7,632000.0,Masculino,Básica,No,Moderada
+31.0,Antofagasta,22.2,301000.0,Masculino,Técnico,No,Baja
+41.0,Rancagua,80.2,540000.0,Femenino,Media,No,
+19.0,Concepción,65.3,683000.0,Otro,Técnico,No,Moderada
+62.0,Rancagua,49.8,578000.0,Masculino,Básica,Sí,Baja
+43.0,Puerto Montt,83.8,861000.0,Femenino,,Sí,Baja
+31.0,Iquique,79.5,586000.0,Masculino,Media,No,Alta
+76.0,sin información,65.1,445000.0,Masculino,,Sí,Alta
+73.0,Iquique,52.7,926000.0,Otro,,Sí,Moderada
+68.0,Talca,72.7,745000.0,Masculino,Técnico,Sí,Moderada
+,sin información,71.8,260000.0,Masculino,Universitario,No,Alta
+20.0,Talca,83.9,382000.0,Otro,Media,Sí,Alta
+64.0,La Serena,63.3,344000.0,Otro,Técnico,Sí,Moderada
+40.0,Puerto Montt,87.9,597000.0,Otro,Universitario,Sí,Alta
+63.0,La Serena,61.9,586000.0,Otro,Universitario,No,Moderada
+60.0,Valparaíso,49.8,585000.0,Femenino,Básica,Sí,Baja
+64.0,Iquique,53.0,256000.0,Femenino,Universitario,Sí,Baja
+77.0,Talca,,404000.0,Femenino,Media,No,Alta
+62.0,sin información,69.0,478000.0,Masculino,Media,Sí,Baja
+35.0,La Serena,74.9,227000.0,Otro,Universitario,No,Baja
+75.0,Valparaíso,68.6,369000.0,Otro,Técnico,No,Baja
+55.0,Santiago,84.7,703000.0,Femenino,Media,No,Baja
+,Rancagua,66.1,267000.0,Masculino,Media,No,Moderada
+,Antofagasta,40.1,718000.0,Masculino,Básica,,Moderada
+,Valparaíso,68.2,664000.0,Masculino,Técnico,No,Alta
+42.0,Puerto Montt,39.9,456000.0,Femenino,Universitario,Sí,Baja
+72.0,La Serena,74.1,403000.0,Masculino,Técnico,,Baja
+54.0,Puerto Montt,85.9,625000.0,Masculino,Básica,Sí,Baja
+45.0,Rancagua,55.2,382000.0,Masculino,Básica,Sí,Alta
+27.0,sin información,91.3,389000.0,Otro,Técnico,No,
+56.0,Iquique,82.6,496000.0,Femenino,Básica,Sí,Baja
+74.0,Iquique,88.1,180000.0,Otro,Básica,Sí,
+34.0,Puerto Montt,72.8,283000.0,Otro,Básica,Sí,Alta
+56.0,Talca,55.1,453000.0,Femenino,Técnico,No,Moderada
+,sin información,81.7,571000.0,Otro,Básica,Sí,Baja
+43.0,Iquique,60.6,380000.0,Masculino,Universitario,Sí,Moderada
+,Temuco,71.8,,Masculino,,,Moderada
+61.0,Valparaíso,67.4,258000.0,Masculino,,Sí,Alta
+42.0,Temuco,86.9,640000.0,Masculino,Universitario,Sí,Alta
+34.0,sin información,81.0,533000.0,Femenino,Media,Sí,
+30.0,Rancagua,68.8,546000.0,,Técnico,No,Alta
+37.0,Iquique,40.7,573000.0,Otro,Básica,Sí,Moderada
+42.0,Temuco,,512000.0,Masculino,Universitario,Sí,Moderada
+21.0,Puerto Montt,80.6,427000.0,Masculino,Media,No,Alta
+27.0,Santiago,74.2,669000.0,Otro,,No,Alta
+20.0,Concepción,47.5,524000.0,Femenino,Media,No,Baja
+,Concepción,42.9,475000.0,Otro,Básica,Sí,Baja
+62.0,Talca,72.9,499000.0,Masculino,Universitario,,
+35.0,Temuco,54.1,,,Técnico,No,Moderada
+64.0,Talca,55.6,474000.0,Femenino,,No,Alta
+53.0,Talca,80.1,567000.0,Otro,Técnico,Sí,
+64.0,sin información,88.0,360000.0,Femenino,Media,No,Moderada
+39.0,Valparaíso,58.7,371000.0,Femenino,Media,No,
+51.0,Temuco,69.3,584000.0,Masculino,Básica,No,Alta
+64.0,La Serena,68.9,478000.0,Otro,Básica,No,Alta
+,Iquique,67.5,646000.0,Masculino,Media,No,Moderada
+57.0,Talca,70.6,561000.0,Otro,Universitario,Sí,Alta
+66.0,Rancagua,81.3,417000.0,,Técnico,Sí,Baja
+61.0,Antofagasta,59.9,586000.0,Masculino,,No,Baja
+36.0,Rancagua,47.1,680000.0,Otro,Básica,No,Alta
+,Santiago,95.4,567000.0,,Universitario,No,Alta
+58.0,Santiago,86.3,600000.0,Masculino,,,Baja
+54.0,Puerto Montt,53.4,474000.0,Otro,Básica,Sí,Alta
+23.0,Valparaíso,72.0,649000.0,Masculino,Media,Sí,Moderada
+69.0,Iquique,85.2,413000.0,Otro,Media,Sí,Alta
+43.0,Talca,81.2,551000.0,,Básica,No,Moderada
+51.0,Rancagua,76.9,885000.0,,Universitario,No,Alta
+76.0,Antofagasta,67.4,581000.0,Masculino,Técnico,,Alta
+73.0,Santiago,95.9,437000.0,Femenino,,No,Baja
+76.0,Santiago,73.3,437000.0,Otro,Universitario,Sí,Moderada
+62.0,sin información,62.3,489000.0,,Media,No,Baja
+,Antofagasta,83.1,628000.0,,Básica,Sí,Alta
+54.0,Antofagasta,71.4,522000.0,Masculino,,Sí,Baja
+74.0,Valparaíso,75.2,403000.0,Femenino,Técnico,No,Alta
+50.0,Santiago,73.0,402000.0,Masculino,Media,Sí,Alta
+70.0,Iquique,77.5,523000.0,Masculino,Básica,Sí,Alta
+39.0,Temuco,55.3,506000.0,Femenino,Técnico,No,Moderada
+38.0,Temuco,48.2,568000.0,Femenino,Básica,Sí,Moderada
+23.0,Valparaíso,91.5,638000.0,Otro,Técnico,Sí,Moderada
+23.0,Antofagasta,73.7,909000.0,Otro,Media,No,Baja
+,Talca,81.6,281000.0,Femenino,Media,Sí,Alta
+65.0,Valparaíso,43.6,603000.0,Otro,Básica,Sí,Baja
+21.0,Iquique,86.0,515000.0,Femenino,Universitario,No,Baja
+47.0,Valparaíso,62.2,223000.0,Otro,Universitario,Sí,Alta
+28.0,Concepción,57.9,687000.0,Masculino,Media,No,Baja
+79.0,Rancagua,69.0,563000.0,Otro,,Sí,Alta
+79.0,Antofagasta,55.3,620000.0,Masculino,Universitario,Sí,Alta
+47.0,Puerto Montt,70.0,245000.0,Masculino,Media,No,
+48.0,Puerto Montt,68.0,,Otro,Técnico,No,Alta
+41.0,Antofagasta,85.9,338000.0,Femenino,Técnico,Sí,Baja
+72.0,Iquique,92.7,824000.0,Masculino,Universitario,No,
+26.0,Concepción,92.2,672000.0,Masculino,Media,Sí,Baja
+,Concepción,36.0,398000.0,Otro,Técnico,No,Moderada
+20.0,sin información,56.0,270000.0,Femenino,Técnico,Sí,Baja
+68.0,Rancagua,35.9,529000.0,Femenino,Básica,Sí,Baja
+48.0,Temuco,52.1,,Otro,Básica,Sí,Moderada
+57.0,La Serena,60.3,240000.0,Femenino,Universitario,Sí,Alta
+54.0,Iquique,76.2,360000.0,Otro,Básica,Sí,Alta
+,La Serena,62.2,334000.0,Otro,Media,No,Alta
+41.0,sin información,,630000.0,Otro,Universitario,No,Moderada
+48.0,Antofagasta,72.7,,Masculino,,Sí,Baja
+23.0,sin información,44.4,451000.0,Masculino,Básica,Sí,Baja
+19.0,Puerto Montt,57.4,526000.0,Masculino,Técnico,No,Baja
+37.0,Temuco,62.4,368000.0,Otro,Media,No,Baja
+45.0,Antofagasta,67.0,283000.0,Masculino,Media,No,Moderada
+28.0,sin información,71.2,705000.0,Masculino,Media,No,Baja
+21.0,Talca,92.5,719000.0,Masculino,Universitario,No,Alta
+32.0,sin información,83.6,527000.0,Otro,Media,Sí,Moderada
+23.0,Iquique,58.5,538000.0,Otro,Técnico,Sí,
+71.0,Iquique,66.1,689000.0,Otro,,No,Alta
+66.0,Santiago,65.1,523000.0,Masculino,Básica,,Alta
+47.0,Valparaíso,62.3,437000.0,Femenino,Media,No,Baja
+73.0,Talca,74.1,506000.0,Masculino,Universitario,No,Alta
+55.0,sin información,42.1,709000.0,Masculino,Básica,No,Moderada
+68.0,Concepción,83.2,508000.0,Otro,Técnico,No,
+79.0,Puerto Montt,95.4,400000.0,Otro,Media,No,Moderada
+74.0,Santiago,66.0,,Masculino,Técnico,No,Baja
+19.0,sin información,65.7,598000.0,Masculino,Básica,No,Baja
+32.0,La Serena,72.4,580000.0,,Técnico,Sí,Alta
+28.0,Concepción,85.3,583000.0,Femenino,Media,No,Baja
+25.0,Antofagasta,65.1,376000.0,,Media,No,Baja
+43.0,Rancagua,84.0,616000.0,Femenino,Básica,Sí,Moderada
+68.0,La Serena,77.3,504000.0,Femenino,Media,Sí,
+62.0,Rancagua,105.4,393000.0,Otro,Técnico,,
+61.0,Talca,65.1,614000.0,Femenino,Técnico,No,Moderada
+,Valparaíso,40.4,432000.0,Masculino,Universitario,No,Baja
+23.0,Concepción,48.5,264000.0,Femenino,Universitario,No,Alta
+43.0,Temuco,70.2,350000.0,Otro,Universitario,No,Alta
+71.0,Concepción,85.4,473000.0,Masculino,Técnico,Sí,Moderada
+21.0,Puerto Montt,,587000.0,Femenino,Técnico,,Moderada
+36.0,Iquique,66.5,370000.0,Masculino,Básica,No,Moderada
+37.0,Puerto Montt,80.3,464000.0,Masculino,Universitario,Sí,Alta
+,sin información,55.5,318000.0,Femenino,Técnico,,Moderada
+37.0,sin información,60.8,647000.0,Femenino,Básica,No,Baja
+66.0,La Serena,52.5,758000.0,Otro,Técnico,No,Alta
+29.0,Temuco,87.7,741000.0,Otro,Básica,No,Moderada
+64.0,Temuco,,645000.0,Masculino,,Sí,Baja
+,sin información,46.3,629000.0,Otro,Universitario,Sí,Baja
+43.0,Rancagua,67.9,189000.0,Masculino,Universitario,Sí,Moderada
+31.0,Talca,,527000.0,Masculino,Técnico,Sí,Baja
+55.0,Puerto Montt,76.0,426000.0,Otro,Técnico,No,Alta
+54.0,Valparaíso,62.7,632000.0,Otro,Básica,No,Alta
+79.0,Iquique,46.8,119000.0,Otro,Media,No,Baja
+28.0,La Serena,87.3,529000.0,Femenino,Media,Sí,Alta
+53.0,sin información,75.4,468000.0,Masculino,Universitario,Sí,Moderada
+,Valparaíso,47.9,668000.0,Masculino,Media,Sí,Baja
+60.0,Rancagua,87.8,732000.0,Masculino,Universitario,No,Alta
+20.0,Concepción,,361000.0,Otro,Básica,,Moderada
+50.0,sin información,66.7,367000.0,Otro,Media,Sí,Moderada
+23.0,Valparaíso,,535000.0,Otro,Media,Sí,Alta
+67.0,Puerto Montt,94.3,760000.0,Otro,Universitario,No,Baja
+73.0,Antofagasta,66.1,509000.0,,Básica,No,
+27.0,Santiago,66.0,308000.0,Femenino,Media,No,Moderada
+22.0,Santiago,49.6,409000.0,Otro,Media,Sí,Moderada
+40.0,Rancagua,60.4,530000.0,Masculino,Media,Sí,Moderada
+27.0,sin información,57.7,536000.0,Otro,Básica,Sí,Baja
+61.0,Temuco,58.5,394000.0,Masculino,Básica,Sí,Alta
+19.0,Temuco,70.1,406000.0,Otro,Media,No,
+30.0,La Serena,33.5,353000.0,Otro,Universitario,No,Alta
+57.0,Antofagasta,47.3,671000.0,Masculino,Universitario,No,Moderada
+19.0,Antofagasta,68.3,375000.0,Masculino,Media,Sí,Baja
+37.0,Concepción,71.8,,Masculino,Básica,No,Alta
+18.0,Talca,66.5,426000.0,Masculino,Media,No,Baja
+54.0,sin información,69.4,259000.0,Femenino,Básica,No,Alta
+26.0,Santiago,63.9,370000.0,Masculino,Media,No,Moderada
+34.0,Rancagua,69.7,684000.0,Otro,Básica,No,Alta
+26.0,Temuco,76.5,319000.0,Otro,Técnico,Sí,Moderada
+28.0,Temuco,76.4,355000.0,Femenino,Universitario,No,Moderada
+,Valparaíso,59.7,300000.0,Masculino,Técnico,No,Alta
+41.0,La Serena,83.7,486000.0,,Universitario,Sí,Baja
+55.0,Antofagasta,72.4,783000.0,Femenino,Básica,Sí,Moderada
+,sin información,88.5,480000.0,Otro,Técnico,No,Baja
+52.0,sin información,91.5,510000.0,Femenino,Universitario,No,Alta
+47.0,Temuco,48.4,381000.0,Femenino,Media,No,Moderada
+48.0,Talca,57.1,491000.0,Masculino,Básica,No,Baja
+66.0,Concepción,82.2,,Femenino,Básica,Sí,Moderada
+,Santiago,45.0,521000.0,Otro,Media,No,Alta
+79.0,La Serena,91.3,820000.0,Otro,Media,,Moderada
+77.0,Talca,64.8,689000.0,Masculino,Universitario,No,Alta
+61.0,La Serena,78.6,487000.0,Masculino,Básica,No,Baja
+67.0,Valparaíso,68.3,484000.0,Femenino,Universitario,No,
+31.0,Iquique,49.1,745000.0,Masculino,Media,Sí,Baja
+70.0,Temuco,85.8,521000.0,Otro,,No,Alta
+73.0,sin información,111.3,711000.0,Otro,Media,No,Alta
+28.0,Talca,62.3,800000.0,Masculino,Universitario,Sí,Baja
+,La Serena,65.2,469000.0,Masculino,Universitario,,Baja
+51.0,sin información,30.3,553000.0,Masculino,Universitario,Sí,Alta
+29.0,Valparaíso,90.3,,Femenino,Básica,No,Baja
+52.0,Antofagasta,83.7,615000.0,Femenino,Media,Sí,Alta
+52.0,Concepción,44.0,614000.0,Otro,Media,Sí,
+18.0,Talca,39.0,,Femenino,,Sí,Alta
+57.0,Valparaíso,40.8,,Femenino,Universitario,No,Alta
+39.0,Talca,79.7,426000.0,Femenino,Universitario,Sí,Moderada
+77.0,Temuco,81.2,682000.0,Femenino,Universitario,,
+46.0,Puerto Montt,56.1,315000.0,Otro,Técnico,No,Alta
+25.0,Valparaíso,77.5,728000.0,Masculino,Técnico,Sí,Moderada
+,Antofagasta,72.4,617000.0,Otro,Técnico,No,Moderada
+58.0,Concepción,64.5,673000.0,,Universitario,No,Baja
+,Iquique,84.6,361000.0,Masculino,Universitario,Sí,Baja
+31.0,Temuco,51.9,511000.0,Masculino,Media,Sí,Alta
+77.0,Puerto Montt,87.2,545000.0,Masculino,Básica,No,Baja
+47.0,Iquique,59.1,538000.0,Otro,Media,,Baja
+52.0,Santiago,96.7,544000.0,Masculino,Técnico,Sí,Alta
+38.0,Temuco,54.9,459000.0,Otro,Media,Sí,Moderada
+54.0,Concepción,64.7,520000.0,Otro,Universitario,Sí,
+22.0,sin información,70.9,655000.0,Femenino,Técnico,No,Alta
+36.0,Valparaíso,70.8,325000.0,Femenino,Técnico,No,Alta
+76.0,Talca,77.4,732000.0,Masculino,Básica,Sí,Alta
+31.0,Concepción,,647000.0,Masculino,Básica,No,
+43.0,Valparaíso,69.4,355000.0,Femenino,Técnico,Sí,Alta
+79.0,Iquique,72.1,558000.0,Otro,,Sí,Alta
+21.0,Talca,62.1,,Otro,Media,Sí,
+42.0,Rancagua,76.1,315000.0,Femenino,Técnico,Sí,Baja
+62.0,sin información,,506000.0,Otro,Universitario,No,Baja
+59.0,Santiago,65.1,488000.0,Femenino,Media,Sí,
+42.0,sin información,58.7,403000.0,Femenino,Universitario,No,Alta
+35.0,Concepción,65.1,514000.0,Masculino,Universitario,,Alta
+57.0,Santiago,91.7,410000.0,Masculino,Universitario,No,Baja
+25.0,La Serena,92.0,706000.0,Femenino,Técnico,No,Moderada
+56.0,Valparaíso,89.1,406000.0,Masculino,Básica,No,Baja
+57.0,Valparaíso,63.1,619000.0,Femenino,Básica,No,Alta
+,Concepción,83.6,252000.0,Otro,Universitario,Sí,Alta
+49.0,Puerto Montt,71.7,476000.0,Otro,Técnico,No,
+68.0,Puerto Montt,70.7,502000.0,,Media,Sí,Baja
+78.0,Rancagua,68.8,471000.0,Otro,Universitario,No,Alta
+55.0,Antofagasta,96.4,441000.0,Femenino,Media,No,Baja
+50.0,Talca,90.5,400000.0,Otro,Media,No,Alta
+40.0,La Serena,81.2,,Otro,Técnico,Sí,Baja
+32.0,sin información,67.4,650000.0,Otro,Técnico,No,Moderada
+50.0,Puerto Montt,70.6,488000.0,,Básica,Sí,
+42.0,Rancagua,78.0,336000.0,Femenino,Básica,,Moderada
+34.0,Rancagua,62.2,769000.0,Otro,Técnico,Sí,
+50.0,Concepción,84.1,368000.0,Masculino,Universitario,No,
+64.0,sin información,56.2,281000.0,Masculino,Básica,,
+72.0,Iquique,75.9,198000.0,Masculino,Media,No,Moderada
+,Talca,35.7,515000.0,Masculino,Universitario,No,Moderada
+31.0,sin información,,467000.0,Masculino,Media,No,Moderada
+70.0,Temuco,101.2,655000.0,Masculino,Técnico,No,Alta
+57.0,Concepción,85.5,592000.0,Femenino,Media,No,Moderada
+,Talca,93.0,544000.0,,Universitario,Sí,Baja
+68.0,Temuco,60.0,459000.0,,Técnico,No,Baja
+56.0,Temuco,71.6,,Masculino,Universitario,Sí,Alta
+68.0,sin información,89.2,780000.0,Femenino,Media,Sí,Alta
+23.0,La Serena,79.5,651000.0,Masculino,Universitario,No,Baja
+23.0,Santiago,77.6,430000.0,Otro,Técnico,No,
+20.0,Rancagua,94.5,617000.0,Otro,,Sí,Baja
+24.0,Talca,54.4,440000.0,Femenino,Media,Sí,Alta
+68.0,Concepción,67.2,334000.0,Femenino,Básica,No,Alta
+25.0,Valparaíso,43.7,365000.0,Femenino,Básica,Sí,Baja
+59.0,Concepción,53.6,446000.0,Femenino,Universitario,Sí,Moderada
+69.0,Santiago,86.1,,Masculino,Básica,Sí,Moderada
+32.0,Antofagasta,56.2,809000.0,Masculino,Básica,Sí,Alta
+64.0,Rancagua,81.0,368000.0,Otro,Básica,No,Baja
+46.0,Valparaíso,94.9,699000.0,Femenino,Básica,No,Baja
+50.0,Puerto Montt,67.3,452000.0,Femenino,Técnico,Sí,
+69.0,Antofagasta,77.8,198000.0,Masculino,Técnico,Sí,
+47.0,La Serena,81.1,424000.0,Femenino,Básica,Sí,Alta
+56.0,Temuco,51.7,677000.0,Otro,Universitario,No,Moderada
+,Puerto Montt,60.8,552000.0,Otro,Técnico,No,Moderada
+53.0,Concepción,54.9,561000.0,Femenino,Básica,Sí,Baja
+46.0,sin información,61.9,699000.0,Otro,Técnico,Sí,Moderada
+55.0,La Serena,80.7,345000.0,Otro,Media,Sí,Moderada
+74.0,Santiago,61.1,342000.0,Masculino,Técnico,No,Alta
+50.0,Talca,69.5,160000.0,Otro,Técnico,Sí,
+78.0,Puerto Montt,54.4,,Femenino,Universitario,Sí,Baja
+54.0,Puerto Montt,88.4,584000.0,Femenino,Técnico,Sí,Alta
+44.0,Iquique,61.8,609000.0,Otro,Universitario,,Baja
+72.0,Antofagasta,92.8,323000.0,Femenino,Media,Sí,Baja
+50.0,Rancagua,70.9,259000.0,Masculino,Básica,No,Alta
+79.0,Antofagasta,48.9,302000.0,Otro,Universitario,No,Moderada
+21.0,Talca,67.4,362000.0,Otro,Técnico,No,Moderada
+39.0,Concepción,54.1,733000.0,Otro,Técnico,Sí,Moderada
+19.0,Concepción,78.8,650000.0,Femenino,,No,Moderada
+27.0,Concepción,66.1,,Femenino,Media,Sí,Baja
+22.0,Iquique,72.4,545000.0,Otro,Básica,,Moderada
+76.0,Concepción,64.5,398000.0,Femenino,Técnico,No,Baja
+27.0,Talca,61.7,555000.0,Femenino,Media,Sí,Alta
+50.0,La Serena,55.4,329000.0,Otro,Básica,Sí,Alta
+71.0,Rancagua,82.5,613000.0,Otro,Básica,,Baja
+55.0,Talca,67.4,373000.0,Femenino,Técnico,No,Moderada
+30.0,Rancagua,65.3,621000.0,Otro,Universitario,Sí,Baja
+48.0,Talca,67.0,,Otro,Técnico,No,Moderada
+64.0,Concepción,59.8,381000.0,Otro,Técnico,No,Moderada
+53.0,La Serena,65.3,742000.0,Otro,Técnico,No,Baja
+62.0,sin información,73.1,527000.0,Femenino,Media,Sí,Baja
+41.0,Antofagasta,54.5,,Otro,Universitario,,Moderada
+,Temuco,56.7,,Masculino,Media,Sí,Baja
+,sin información,90.7,299000.0,Otro,Técnico,No,Moderada
+32.0,Puerto Montt,64.6,666000.0,Masculino,Universitario,No,Baja
+46.0,Santiago,61.7,479000.0,Otro,Básica,Sí,Alta
+,Talca,49.8,590000.0,Masculino,Universitario,No,Moderada
+,Santiago,,,Masculino,Técnico,No,Alta
+46.0,Puerto Montt,54.2,443000.0,Otro,Universitario,,Baja
+64.0,La Serena,69.8,,Otro,Básica,,Alta
+,Talca,44.4,655000.0,Otro,Básica,No,Baja
+29.0,Temuco,82.3,602000.0,Masculino,Universitario,No,Moderada
+62.0,Concepción,87.7,441000.0,Femenino,Básica,Sí,
+19.0,Talca,77.3,548000.0,Femenino,Media,Sí,Baja
+44.0,Talca,47.0,688000.0,Otro,Universitario,Sí,Moderada
+,La Serena,82.6,470000.0,Femenino,,Sí,Baja
+68.0,La Serena,57.6,454000.0,Femenino,,Sí,Moderada
+68.0,Puerto Montt,52.4,217000.0,Otro,Universitario,Sí,Baja
+,Valparaíso,64.2,,Masculino,Media,No,Moderada
+53.0,sin información,63.9,239000.0,Otro,Universitario,No,Alta
+43.0,sin información,62.4,483000.0,,Básica,No,
+60.0,sin información,89.1,648000.0,Masculino,Universitario,No,Baja
+44.0,Puerto Montt,100.2,182000.0,Femenino,Básica,Sí,Baja
+22.0,Rancagua,49.5,685000.0,Masculino,,No,Moderada
+37.0,Santiago,59.7,450000.0,Femenino,Universitario,Sí,Baja
+28.0,Concepción,72.1,496000.0,Otro,Universitario,Sí,Moderada
+79.0,Valparaíso,64.2,425000.0,Femenino,Básica,No,Baja
+27.0,Temuco,76.0,243000.0,Femenino,Básica,No,Alta
+57.0,Temuco,83.7,383000.0,Masculino,Básica,Sí,
+55.0,Temuco,81.2,815000.0,Femenino,Básica,Sí,Alta
+23.0,La Serena,79.1,336000.0,Otro,Universitario,Sí,Moderada
+25.0,Temuco,94.9,262000.0,Otro,Básica,Sí,Alta
+40.0,Concepción,46.2,521000.0,Otro,Universitario,No,Baja
+64.0,Santiago,92.2,487000.0,Masculino,Media,Sí,
+43.0,Temuco,63.8,452000.0,Masculino,Universitario,No,
+63.0,Talca,81.8,502000.0,Femenino,Básica,Sí,Baja
+60.0,Talca,54.6,597000.0,Femenino,Básica,Sí,Baja
+29.0,La Serena,56.4,412000.0,,Media,Sí,Moderada
+,sin información,79.9,529000.0,Masculino,Universitario,No,Moderada
+30.0,Santiago,41.1,654000.0,Masculino,Media,Sí,Alta
+57.0,Valparaíso,84.8,351000.0,Femenino,Universitario,No,Moderada
+79.0,Puerto Montt,88.9,152000.0,Masculino,,No,
+35.0,Santiago,72.7,601000.0,Masculino,Universitario,No,Moderada
+42.0,sin información,72.1,875000.0,Otro,Básica,Sí,Baja
+50.0,Rancagua,57.5,499000.0,Otro,Básica,No,Alta
+64.0,Puerto Montt,80.1,530000.0,Femenino,,No,Moderada
+57.0,Antofagasta,75.2,456000.0,Femenino,Técnico,Sí,Baja
+77.0,Talca,56.2,738000.0,Otro,Universitario,Sí,Moderada
+60.0,Concepción,64.1,488000.0,Masculino,Básica,No,Moderada
+29.0,Iquique,67.6,472000.0,Femenino,Media,No,Moderada
+61.0,La Serena,64.1,637000.0,Femenino,Básica,Sí,Moderada
+53.0,Antofagasta,49.6,427000.0,Femenino,Media,No,
+65.0,Puerto Montt,80.5,307000.0,Masculino,Universitario,No,Baja
+21.0,Temuco,66.3,632000.0,,Universitario,No,Moderada
+22.0,Concepción,70.2,411000.0,Femenino,Media,Sí,Baja
+73.0,Antofagasta,61.3,354000.0,Otro,,No,
+54.0,La Serena,77.1,815000.0,Otro,Básica,Sí,
+25.0,Talca,73.0,,Masculino,Universitario,Sí,Baja
+59.0,sin información,88.2,574000.0,Masculino,,Sí,
+66.0,La Serena,,504000.0,Masculino,Media,No,
+45.0,Rancagua,67.0,367000.0,Masculino,Técnico,Sí,Baja
+48.0,Rancagua,58.9,603000.0,Masculino,Técnico,No,
+75.0,sin información,83.0,547000.0,Masculino,Técnico,Sí,Moderada
+26.0,sin información,65.8,401000.0,Femenino,Media,No,Moderada
+,Concepción,67.4,,Otro,Básica,No,
+68.0,Antofagasta,67.4,423000.0,Masculino,Universitario,No,Alta
+,Valparaíso,64.0,334000.0,Femenino,Media,Sí,Moderada
+31.0,Puerto Montt,67.7,,Otro,Técnico,No,Moderada
+57.0,Valparaíso,98.9,541000.0,Masculino,Básica,No,Alta
+58.0,Rancagua,54.3,443000.0,Masculino,Universitario,Sí,Baja
+39.0,Talca,57.8,725000.0,Femenino,Universitario,Sí,Moderada
+28.0,Santiago,90.8,494000.0,Otro,Media,No,Baja
+40.0,Puerto Montt,64.4,382000.0,Masculino,Media,Sí,Baja
+18.0,Rancagua,63.2,524000.0,Otro,Universitario,Sí,Baja
+63.0,Antofagasta,85.5,306000.0,Femenino,Universitario,Sí,
+54.0,Antofagasta,48.7,487000.0,Masculino,Técnico,No,Baja
+38.0,Antofagasta,82.3,548000.0,Otro,Universitario,Sí,Baja
+43.0,Talca,70.7,529000.0,Femenino,Media,No,Moderada
+63.0,Valparaíso,77.0,695000.0,Femenino,Básica,Sí,Moderada
+53.0,Santiago,76.7,890000.0,Masculino,Técnico,Sí,Alta
+71.0,Antofagasta,60.6,,Otro,,No,Alta
+,Iquique,85.8,677000.0,,Universitario,Sí,Moderada
+74.0,Puerto Montt,61.7,882000.0,Masculino,Básica,Sí,Moderada
+18.0,Concepción,76.1,349000.0,Otro,Técnico,Sí,Alta
+71.0,Iquique,88.6,520000.0,Otro,Media,Sí,Baja
+72.0,Santiago,90.7,428000.0,Otro,Universitario,No,Alta
+68.0,Talca,66.0,626000.0,Femenino,Media,No,Baja
+57.0,Santiago,76.9,541000.0,Femenino,Universitario,No,Moderada
+32.0,Concepción,64.6,377000.0,,Técnico,No,Moderada
+38.0,Puerto Montt,107.6,502000.0,Femenino,Universitario,No,Moderada
+64.0,Concepción,81.7,657000.0,Masculino,Básica,No,Baja
+,La Serena,71.3,304000.0,Otro,Media,No,Alta
+70.0,Puerto Montt,74.7,380000.0,Masculino,Básica,Sí,Baja
+26.0,Santiago,76.1,358000.0,Otro,,No,Alta
+27.0,Antofagasta,76.6,549000.0,Masculino,Media,No,Alta
+69.0,Santiago,66.4,686000.0,Otro,Universitario,No,Alta
+74.0,Santiago,64.1,199000.0,Masculino,,Sí,Moderada
+70.0,Puerto Montt,67.7,514000.0,Otro,Técnico,No,Alta
+43.0,La Serena,52.9,361000.0,Otro,Básica,No,Moderada
+58.0,Santiago,80.8,651000.0,Femenino,Universitario,No,Alta
+52.0,Iquique,58.0,464000.0,Masculino,Técnico,Sí,Alta
+,Rancagua,54.1,520000.0,Femenino,Media,No,Moderada
+42.0,Temuco,69.8,500000.0,Masculino,Media,,Moderada
+43.0,Temuco,68.0,669000.0,Femenino,Universitario,Sí,Baja
+,Santiago,73.7,807000.0,Otro,Básica,Sí,Alta
+55.0,Iquique,61.5,330000.0,Femenino,Universitario,Sí,Moderada
+19.0,Antofagasta,64.1,357000.0,Femenino,Básica,No,Baja
+,Talca,80.4,548000.0,Otro,Universitario,Sí,
+35.0,Talca,79.5,378000.0,Femenino,Media,Sí,Moderada
+44.0,Puerto Montt,78.8,640000.0,Otro,Universitario,No,Alta
+51.0,Temuco,70.5,664000.0,Masculino,Técnico,Sí,Baja
+,Santiago,72.5,418000.0,Femenino,Técnico,Sí,Alta
+34.0,Talca,73.5,,,Universitario,Sí,Alta
+60.0,Santiago,60.2,459000.0,Otro,Básica,Sí,Baja
+76.0,Puerto Montt,92.1,516000.0,Femenino,Básica,Sí,Moderada
+61.0,Temuco,90.0,547000.0,Masculino,Media,Sí,Alta
+76.0,Concepción,81.9,162000.0,Femenino,Media,No,Moderada
+68.0,Rancagua,63.6,355000.0,Otro,Básica,No,Baja
+71.0,Rancagua,78.1,439000.0,Masculino,Universitario,No,Alta
+41.0,Talca,84.7,380000.0,Femenino,Media,No,Moderada
+42.0,Rancagua,51.7,70000.0,Otro,Básica,Sí,Moderada
+24.0,Concepción,95.4,217000.0,Femenino,Básica,Sí,
+69.0,Santiago,43.9,304000.0,Masculino,Universitario,Sí,Moderada
+23.0,Puerto Montt,80.6,483000.0,Masculino,,No,
+70.0,Concepción,91.8,435000.0,Masculino,Básica,No,Baja
+41.0,Puerto Montt,,405000.0,Masculino,Media,Sí,Baja
+50.0,Puerto Montt,67.7,619000.0,Masculino,Universitario,Sí,Moderada
+66.0,Temuco,80.0,619000.0,Femenino,Universitario,No,
+46.0,sin información,97.8,522000.0,Masculino,Universitario,No,Alta
+60.0,Iquique,,518000.0,Masculino,Técnico,No,Baja
+39.0,Rancagua,58.3,372000.0,Otro,Técnico,,Alta
+43.0,Iquique,63.6,389000.0,Masculino,Media,Sí,Moderada
+45.0,sin información,,244000.0,Otro,Media,No,Alta
+67.0,Puerto Montt,83.5,462000.0,Otro,Universitario,No,Moderada
+38.0,Talca,62.3,618000.0,Otro,Media,Sí,Baja
+66.0,Rancagua,66.9,703000.0,Femenino,Básica,Sí,Baja
+24.0,Rancagua,83.6,,Femenino,Técnico,Sí,Moderada
+,Santiago,64.3,,,Universitario,No,Baja
+37.0,La Serena,81.4,72000.0,Femenino,Universitario,No,Moderada
+,Valparaíso,54.4,435000.0,Masculino,,No,Alta
+66.0,Valparaíso,84.4,432000.0,Femenino,Básica,No,Moderada
+37.0,sin información,75.1,724000.0,Masculino,Básica,Sí,Alta
+71.0,La Serena,68.7,559000.0,Masculino,Básica,Sí,Moderada
+39.0,Santiago,72.0,,Femenino,Universitario,No,Baja
+45.0,La Serena,50.7,566000.0,Femenino,Técnico,,
+78.0,Valparaíso,71.6,507000.0,Otro,Técnico,No,Moderada
+57.0,Temuco,67.9,730000.0,Femenino,Básica,Sí,Moderada
+66.0,Concepción,51.1,,Femenino,Media,,Baja
+24.0,Puerto Montt,59.9,522000.0,,Universitario,Sí,Moderada
+18.0,La Serena,68.1,669000.0,Masculino,Técnico,No,Baja
+,Santiago,60.9,216000.0,Masculino,,Sí,Moderada
+30.0,Santiago,33.8,626000.0,Masculino,Media,Sí,Alta
+47.0,Iquique,86.1,386000.0,Otro,Media,No,Moderada
+40.0,Concepción,67.9,516000.0,Otro,Básica,Sí,Alta
+68.0,Talca,35.9,383000.0,Otro,Universitario,Sí,Baja
+76.0,Rancagua,102.0,644000.0,Masculino,Técnico,No,Baja
+73.0,Valparaíso,88.6,457000.0,Femenino,Media,Sí,Moderada
+36.0,Talca,64.8,627000.0,Otro,Técnico,No,Baja
+79.0,Iquique,57.4,565000.0,Otro,,Sí,Moderada
+49.0,sin información,76.0,381000.0,Masculino,,Sí,Baja
+47.0,Concepción,73.0,575000.0,,Básica,Sí,Alta
+46.0,Iquique,78.1,400000.0,,Media,Sí,Baja
+66.0,Valparaíso,57.4,510000.0,,Media,No,Alta
+62.0,Concepción,86.5,454000.0,Masculino,Universitario,No,Moderada
+46.0,Antofagasta,62.9,635000.0,Femenino,Técnico,No,Moderada
+47.0,Talca,80.2,,Femenino,,Sí,Moderada
+33.0,Talca,58.0,495000.0,Femenino,Técnico,Sí,Alta
+57.0,Rancagua,109.7,397000.0,Otro,Media,No,Moderada
+36.0,Concepción,80.4,310000.0,Femenino,Básica,No,Moderada
+35.0,La Serena,113.3,520000.0,Masculino,Básica,No,Alta
+18.0,Antofagasta,82.4,405000.0,Femenino,Básica,No,Baja
+31.0,Temuco,,218000.0,Masculino,Básica,Sí,Moderada
+68.0,Valparaíso,82.4,300000.0,Masculino,Universitario,No,Baja
+64.0,Antofagasta,83.5,744000.0,Otro,Básica,Sí,Baja
+67.0,Concepción,75.6,401000.0,Femenino,Media,No,Moderada
+19.0,Puerto Montt,79.5,662000.0,Otro,Universitario,Sí,Moderada
+71.0,Valparaíso,81.4,447000.0,Femenino,Media,No,Alta
+45.0,Santiago,55.1,686000.0,Femenino,Media,No,Alta
+66.0,Talca,54.0,675000.0,Femenino,Técnico,Sí,Moderada
+67.0,Concepción,58.1,376000.0,Femenino,Básica,Sí,Baja
+47.0,Santiago,71.9,202000.0,Femenino,Básica,No,Alta
+55.0,Rancagua,66.7,215000.0,Masculino,Media,Sí,Alta
+68.0,Iquique,55.4,379000.0,Masculino,Básica,No,Moderada
+21.0,Temuco,81.6,783000.0,Femenino,Universitario,Sí,Moderada
+18.0,Temuco,74.2,,Masculino,Técnico,No,Moderada
+25.0,Santiago,72.5,522000.0,Otro,Básica,No,Moderada
+46.0,Talca,66.1,696000.0,Otro,Básica,No,Alta
+72.0,Rancagua,64.3,517000.0,Otro,Universitario,No,Alta
+56.0,Puerto Montt,57.4,511000.0,Femenino,Técnico,No,Alta
+20.0,Talca,84.0,593000.0,Femenino,Universitario,No,Baja
+49.0,Antofagasta,59.4,543000.0,Masculino,Media,No,Alta
+27.0,Temuco,73.1,485000.0,Masculino,Media,No,Alta
+27.0,Antofagasta,94.9,392000.0,Masculino,Básica,Sí,Moderada
+36.0,sin información,65.0,512000.0,Otro,Técnico,Sí,Alta
+63.0,La Serena,,664000.0,Otro,Media,Sí,Alta
+51.0,Concepción,78.5,767000.0,Otro,Universitario,No,Alta
+77.0,Rancagua,74.7,,Otro,Media,No,Moderada
+50.0,Talca,76.5,613000.0,Masculino,Media,No,Alta
+40.0,Temuco,68.6,540000.0,Femenino,Universitario,Sí,Alta
+72.0,Antofagasta,70.5,487000.0,Femenino,Básica,Sí,Baja
+45.0,Iquique,61.8,577000.0,Otro,Técnico,Sí,Baja
+49.0,Valparaíso,70.6,678000.0,Femenino,Básica,Sí,Baja
+67.0,Concepción,61.2,367000.0,Femenino,Universitario,,Baja
+24.0,Concepción,85.1,282000.0,Femenino,Media,,Moderada
+46.0,Talca,44.5,420000.0,Otro,Técnico,Sí,
+25.0,Rancagua,77.2,532000.0,Masculino,Básica,,Alta
+18.0,Puerto Montt,75.0,,Masculino,Universitario,No,Baja
+,Iquique,73.7,352000.0,Femenino,Media,No,Moderada
+72.0,Talca,85.4,127000.0,,Media,Sí,Baja
+20.0,Antofagasta,65.7,424000.0,Masculino,Básica,Sí,Baja
+41.0,La Serena,73.8,471000.0,Otro,Universitario,No,Moderada
+40.0,sin información,44.3,326000.0,Otro,Media,Sí,Moderada
+76.0,Puerto Montt,63.8,387000.0,Femenino,Media,Sí,Moderada
+78.0,Rancagua,82.8,630000.0,Femenino,Técnico,No,Moderada
+25.0,sin información,49.9,,Femenino,Media,No,
+71.0,Puerto Montt,72.4,552000.0,Otro,Básica,No,Moderada
+74.0,Temuco,59.8,447000.0,Masculino,Universitario,No,
+64.0,sin información,68.3,387000.0,,Universitario,No,Baja
+54.0,La Serena,60.7,446000.0,Otro,Técnico,Sí,Baja
+20.0,Temuco,51.3,575000.0,Masculino,Universitario,No,Moderada
+68.0,Puerto Montt,75.8,276000.0,Masculino,Básica,Sí,Moderada
+50.0,Santiago,69.3,748000.0,Femenino,Media,Sí,Alta
+45.0,Santiago,79.2,586000.0,Masculino,Técnico,No,Alta
+64.0,La Serena,81.9,420000.0,Masculino,Universitario,No,Moderada
+25.0,Concepción,88.4,,Masculino,Técnico,,Alta
+51.0,Iquique,,683000.0,Masculino,Técnico,No,Alta
+52.0,Valparaíso,89.0,450000.0,Femenino,Universitario,Sí,Moderada
+49.0,Concepción,55.4,468000.0,Femenino,Técnico,No,Moderada
+41.0,Santiago,83.6,724000.0,Masculino,Universitario,No,Moderada
+31.0,Santiago,76.9,,Masculino,Básica,,Moderada
+49.0,sin información,73.5,504000.0,Femenino,Universitario,Sí,
+73.0,sin información,76.7,,Femenino,Media,No,Baja
+63.0,Puerto Montt,55.6,429000.0,Masculino,,No,Moderada
+60.0,Valparaíso,52.0,655000.0,Otro,Media,No,Alta
+33.0,La Serena,95.6,345000.0,Femenino,Técnico,Sí,Moderada
+,Puerto Montt,67.5,469000.0,Femenino,Universitario,No,Baja
+69.0,Antofagasta,67.3,544000.0,Femenino,Media,No,Alta
+54.0,Santiago,53.5,362000.0,Masculino,Universitario,No,
+71.0,La Serena,47.8,664000.0,Masculino,Universitario,No,Moderada
+38.0,Santiago,68.7,604000.0,Femenino,Universitario,Sí,Baja
+31.0,sin información,64.9,801000.0,Masculino,Básica,Sí,Baja
+48.0,Temuco,70.0,617000.0,Masculino,Media,Sí,Baja
+72.0,Puerto Montt,71.3,356000.0,Femenino,Básica,No,Alta
+65.0,Puerto Montt,107.3,580000.0,Masculino,Básica,,Baja
+35.0,Concepción,64.9,648000.0,Otro,Media,No,Alta
+24.0,La Serena,93.7,656000.0,Masculino,Universitario,Sí,Moderada
+27.0,Iquique,94.6,383000.0,Masculino,Básica,Sí,Moderada
+24.0,Antofagasta,81.3,366000.0,Femenino,Básica,Sí,Baja
+50.0,Iquique,66.5,329000.0,Femenino,Básica,Sí,Alta
+,Concepción,49.6,741000.0,Otro,,No,Moderada
+,Valparaíso,77.2,593000.0,Masculino,Básica,Sí,Alta
+36.0,Antofagasta,85.3,377000.0,Otro,Técnico,Sí,Alta
+65.0,Temuco,96.2,519000.0,Otro,Media,No,Baja
+78.0,Iquique,55.8,481000.0,Femenino,Técnico,Sí,Baja
+36.0,Temuco,66.3,354000.0,Masculino,Universitario,No,
+53.0,Iquique,55.8,505000.0,Femenino,Básica,No,Alta
+46.0,Temuco,60.5,,Otro,Media,No,Baja
+77.0,Iquique,80.0,790000.0,Otro,Básica,No,Alta
+35.0,Temuco,59.8,402000.0,Femenino,Universitario,,Baja
+19.0,Concepción,,244000.0,Femenino,Media,Sí,Alta
+18.0,Rancagua,82.0,343000.0,Femenino,Técnico,Sí,Baja
+,Antofagasta,76.8,366000.0,Femenino,Media,No,Alta
+22.0,La Serena,75.3,436000.0,Femenino,Básica,Sí,Baja
+37.0,Valparaíso,60.2,343000.0,Otro,Media,No,
+28.0,Talca,89.4,623000.0,Femenino,Universitario,Sí,Moderada
+59.0,Santiago,,333000.0,Masculino,Universitario,Sí,Moderada
+19.0,La Serena,105.7,503000.0,Otro,Media,Sí,Alta
+20.0,Santiago,72.4,800000.0,Otro,Universitario,Sí,Moderada
+40.0,Antofagasta,35.0,583000.0,Masculino,Universitario,Sí,Alta
+72.0,La Serena,34.3,568000.0,Masculino,,Sí,Alta
+29.0,Temuco,79.4,779000.0,Otro,Técnico,Sí,Moderada
+37.0,Temuco,89.5,687000.0,Femenino,Básica,No,Alta
+22.0,Talca,58.2,585000.0,Otro,Universitario,No,
+54.0,Santiago,101.5,453000.0,Otro,Media,No,Alta
+55.0,Valparaíso,94.9,,Masculino,Universitario,Sí,Alta
+47.0,Antofagasta,73.2,,Otro,Técnico,Sí,Moderada
+26.0,Temuco,78.1,440000.0,Femenino,Media,No,Baja
+51.0,Rancagua,83.4,532000.0,,Básica,No,Alta
+70.0,Concepción,98.3,553000.0,Otro,Media,Sí,Alta
+61.0,Concepción,80.2,313000.0,Otro,Media,No,
+52.0,Iquique,72.8,745000.0,Femenino,Media,,Alta
+69.0,Valparaíso,80.1,561000.0,,Media,No,Alta
+75.0,Concepción,78.1,461000.0,Otro,,No,Alta
+39.0,Iquique,83.9,533000.0,Otro,Básica,Sí,Baja
+61.0,Santiago,46.4,640000.0,Otro,Universitario,No,Baja
+41.0,Temuco,74.7,280000.0,Femenino,Técnico,No,Alta
+34.0,sin información,76.9,484000.0,Otro,Técnico,No,Alta
+27.0,Rancagua,68.9,322000.0,Otro,Media,No,Moderada
+47.0,La Serena,81.8,899000.0,,Universitario,Sí,Baja
+73.0,Concepción,98.8,521000.0,Masculino,Universitario,No,Baja
+76.0,Santiago,72.1,,Femenino,Básica,No,Alta
+63.0,Puerto Montt,80.4,1040000.0,Masculino,Básica,No,Baja
+40.0,Concepción,94.1,420000.0,Masculino,Básica,No,
+49.0,Valparaíso,72.4,469000.0,Femenino,Universitario,No,Moderada
+,La Serena,56.7,479000.0,Masculino,Básica,Sí,Moderada
+67.0,Concepción,79.2,,Masculino,Básica,No,Baja
+68.0,Santiago,37.0,537000.0,Masculino,Básica,No,Baja
+,Concepción,,168000.0,Femenino,Media,Sí,
+31.0,Valparaíso,75.0,663000.0,Otro,Técnico,No,Alta
+26.0,Puerto Montt,34.8,331000.0,,Técnico,Sí,Moderada
+57.0,Antofagasta,50.3,438000.0,Femenino,,No,Alta
+19.0,Talca,64.3,613000.0,Femenino,Universitario,Sí,Moderada
+62.0,Puerto Montt,59.2,469000.0,Masculino,Media,Sí,Moderada
+42.0,Iquique,67.8,,Otro,Técnico,No,
+56.0,Concepción,,348000.0,Femenino,Básica,Sí,Baja
+26.0,Temuco,73.6,814000.0,Femenino,Básica,No,Moderada
+71.0,sin información,57.4,580000.0,Otro,Universitario,Sí,Alta
+39.0,Temuco,90.3,338000.0,Otro,Técnico,Sí,Moderada
+60.0,sin información,,527000.0,Otro,Universitario,No,Alta
+63.0,Temuco,73.3,327000.0,Masculino,Universitario,Sí,Moderada
+21.0,Santiago,46.9,758000.0,Otro,,No,Moderada
+43.0,sin información,73.8,530000.0,Masculino,Básica,Sí,Baja
+75.0,La Serena,65.2,354000.0,Femenino,Técnico,Sí,Alta
+46.0,Antofagasta,86.2,605000.0,Masculino,Universitario,No,Moderada
+62.0,Concepción,80.8,458000.0,,Media,No,Moderada
+51.0,sin información,61.2,307000.0,Masculino,Técnico,Sí,Alta
+40.0,Valparaíso,58.3,,Otro,Universitario,No,Moderada
+54.0,Antofagasta,65.3,553000.0,Masculino,Técnico,No,Baja
+,Antofagasta,98.1,671000.0,Femenino,,Sí,Alta
+23.0,sin información,94.3,510000.0,Masculino,Técnico,Sí,Baja
+35.0,Antofagasta,55.5,516000.0,Femenino,Media,No,Alta
+,Rancagua,82.0,524000.0,Otro,Media,Sí,Alta
+59.0,sin información,44.0,739000.0,Femenino,Básica,No,Alta
+53.0,Santiago,63.3,453000.0,Otro,Básica,No,Moderada
+58.0,Puerto Montt,56.1,570000.0,Otro,Universitario,No,
+55.0,sin información,86.0,593000.0,Femenino,Técnico,No,Alta
+51.0,Talca,50.6,,Femenino,Universitario,No,Alta
+34.0,sin información,76.4,448000.0,Masculino,Básica,No,Baja
+54.0,Antofagasta,70.0,518000.0,Masculino,Media,Sí,Alta
+42.0,Santiago,67.4,486000.0,Femenino,Básica,No,Moderada
+55.0,Concepción,95.1,794000.0,Femenino,Universitario,Sí,
+75.0,Concepción,96.4,431000.0,Femenino,Básica,No,Alta
+29.0,Iquique,67.8,363000.0,Femenino,Universitario,Sí,Baja
+40.0,La Serena,64.8,499000.0,Otro,Universitario,Sí,Moderada
+70.0,Antofagasta,47.4,488000.0,Femenino,Universitario,Sí,Moderada
+59.0,Rancagua,69.9,,Femenino,Universitario,No,Moderada
+39.0,Iquique,99.3,431000.0,Femenino,Básica,Sí,Alta
+38.0,La Serena,68.1,,Femenino,Universitario,Sí,
+44.0,Antofagasta,80.9,519000.0,Otro,Universitario,No,Moderada
+74.0,Santiago,49.0,,Masculino,Técnico,Sí,Moderada
+48.0,sin información,63.5,514000.0,Masculino,Universitario,Sí,Baja
+23.0,Rancagua,76.9,,Masculino,Básica,No,Moderada
+44.0,Talca,71.6,577000.0,Masculino,Universitario,Sí,Alta
+57.0,Concepción,,630000.0,Masculino,Media,Sí,
+,Valparaíso,,352000.0,Otro,Media,No,Alta
+29.0,Santiago,43.8,312000.0,Masculino,Universitario,Sí,Baja
+62.0,Concepción,86.8,754000.0,Otro,Media,Sí,Moderada
+,sin información,56.0,606000.0,Otro,Media,Sí,Alta
+70.0,Valparaíso,77.6,467000.0,Masculino,Básica,,Baja
+24.0,Concepción,76.8,503000.0,Masculino,,,Baja
+27.0,La Serena,45.0,,Masculino,Media,No,Alta
+62.0,Rancagua,85.7,532000.0,,Media,No,Baja
+34.0,Concepción,61.5,354000.0,Otro,Técnico,No,Baja
+43.0,Talca,70.8,626000.0,Masculino,Técnico,Sí,Alta
+38.0,Puerto Montt,64.6,526000.0,Femenino,Media,No,Baja
+45.0,La Serena,94.3,532000.0,Otro,Universitario,No,Alta
+79.0,Santiago,90.2,366000.0,Femenino,,,Alta
+75.0,Santiago,42.8,579000.0,Femenino,Universitario,Sí,Baja
+63.0,Santiago,103.9,369000.0,Masculino,Universitario,Sí,Alta
+19.0,Santiago,,396000.0,Otro,Universitario,No,Alta
+77.0,Puerto Montt,101.5,513000.0,Femenino,Técnico,Sí,Moderada
+71.0,Concepción,66.2,876000.0,Otro,Media,Sí,Alta
+60.0,Antofagasta,64.9,526000.0,Masculino,Media,Sí,Moderada
+18.0,Concepción,66.3,115000.0,Otro,Básica,No,Moderada
+68.0,Temuco,64.0,404000.0,,Técnico,No,Moderada
+70.0,sin información,107.9,603000.0,Femenino,Básica,No,Moderada
+53.0,Valparaíso,68.9,331000.0,Otro,Básica,No,Baja
+68.0,Antofagasta,65.5,625000.0,Femenino,,No,Baja
+43.0,Antofagasta,71.2,524000.0,Femenino,Técnico,No,Alta
+46.0,Concepción,55.5,649000.0,Femenino,Básica,No,
+38.0,Antofagasta,94.0,416000.0,Masculino,Media,Sí,Alta
+28.0,Iquique,47.9,404000.0,Masculino,Básica,Sí,
+,Iquique,60.8,585000.0,Femenino,Técnico,Sí,Moderada
+,Temuco,84.0,,Otro,Media,No,Baja
+53.0,Valparaíso,70.6,490000.0,Masculino,Media,No,Baja
+66.0,Talca,78.2,735000.0,Otro,Media,Sí,Alta
+76.0,Puerto Montt,93.0,,Femenino,Universitario,Sí,Alta
+56.0,Concepción,85.1,202000.0,Femenino,Media,,Alta
+57.0,sin información,72.1,620000.0,Otro,Universitario,No,Moderada
+52.0,Talca,,,Masculino,Universitario,No,Moderada
+71.0,Concepción,60.6,678000.0,Otro,Básica,No,Baja
+51.0,Concepción,68.5,359000.0,Otro,Básica,No,Moderada
+72.0,Valparaíso,69.5,549000.0,Femenino,Media,,Alta
+64.0,Puerto Montt,68.5,517000.0,Masculino,Técnico,No,Moderada
+41.0,Iquique,54.0,356000.0,Otro,Media,No,Moderada
+71.0,Santiago,46.2,642000.0,Masculino,Básica,Sí,Moderada
+39.0,Puerto Montt,76.3,464000.0,Femenino,Media,No,Moderada
+22.0,Rancagua,60.5,673000.0,Masculino,Básica,No,Alta
+73.0,Rancagua,98.6,389000.0,Femenino,Media,No,Alta
+,Concepción,68.9,281000.0,Masculino,Técnico,Sí,Baja
+75.0,Santiago,66.2,464000.0,Otro,Media,Sí,Baja
+53.0,La Serena,86.4,535000.0,Femenino,Técnico,No,Baja
+64.0,Talca,76.0,420000.0,Otro,Técnico,Sí,Moderada
+37.0,sin información,67.4,,Femenino,Media,Sí,Moderada
+36.0,Santiago,60.4,558000.0,Masculino,Técnico,Sí,Alta
+52.0,Temuco,124.9,,Masculino,Técnico,No,Baja
+69.0,Puerto Montt,75.4,603000.0,Femenino,Básica,No,Alta
+60.0,Puerto Montt,86.3,443000.0,Femenino,Básica,No,Baja
+34.0,Temuco,54.7,435000.0,Femenino,Técnico,No,Baja
+79.0,Talca,61.3,,Masculino,Universitario,No,Baja
+76.0,Santiago,101.7,264000.0,Femenino,Media,No,Moderada
+62.0,La Serena,91.0,463000.0,Femenino,Técnico,No,
+60.0,Concepción,76.9,521000.0,Otro,Media,Sí,Baja
+51.0,Valparaíso,64.3,,Femenino,Básica,No,Moderada
+26.0,Puerto Montt,66.5,525000.0,Otro,Media,No,
+43.0,Rancagua,,362000.0,Otro,Técnico,No,Moderada
+19.0,Talca,,675000.0,Otro,Técnico,No,Moderada
+70.0,Valparaíso,83.9,500000.0,Masculino,Técnico,No,Alta
+26.0,La Serena,78.1,250000.0,Otro,Técnico,No,Moderada
+26.0,Antofagasta,81.0,531000.0,Femenino,Universitario,No,Moderada
+57.0,Concepción,64.9,,Masculino,Universitario,No,Moderada
+,Puerto Montt,73.8,794000.0,Masculino,Universitario,Sí,Baja
+18.0,Concepción,,561000.0,Masculino,Técnico,Sí,Alta
+42.0,Valparaíso,59.1,278000.0,Masculino,Universitario,No,Baja
+78.0,Concepción,95.0,283000.0,Masculino,,No,
+60.0,Antofagasta,71.8,689000.0,Masculino,Técnico,Sí,Moderada
+57.0,Valparaíso,77.6,380000.0,Masculino,Básica,No,Alta
+,Puerto Montt,82.5,,Otro,Técnico,No,Alta
+42.0,sin información,72.0,650000.0,Femenino,Media,Sí,Moderada
+56.0,Rancagua,73.6,429000.0,Femenino,Universitario,No,Moderada
+52.0,Valparaíso,53.7,642000.0,Otro,Técnico,,Baja
+20.0,Iquique,56.6,363000.0,Otro,Universitario,No,Moderada
+,Antofagasta,55.8,721000.0,Masculino,Técnico,Sí,Baja
+54.0,Valparaíso,79.1,,Masculino,Media,Sí,Alta
+61.0,Valparaíso,71.1,392000.0,Otro,Técnico,,Baja
+61.0,Iquique,56.6,251000.0,Masculino,Universitario,Sí,Moderada
+68.0,Puerto Montt,78.7,846000.0,Femenino,Universitario,Sí,Baja
+47.0,Valparaíso,78.2,468000.0,Femenino,Media,Sí,Baja
+55.0,Rancagua,59.6,386000.0,Masculino,Técnico,No,Alta
+,Concepción,69.6,708000.0,Masculino,Básica,Sí,Baja
+29.0,Puerto Montt,,642000.0,Masculino,Técnico,Sí,Moderada
+36.0,Rancagua,57.1,677000.0,Femenino,Media,Sí,Baja
+54.0,Puerto Montt,78.5,485000.0,Masculino,Básica,No,Baja
+61.0,Rancagua,74.5,782000.0,Otro,Media,Sí,Baja
+76.0,Antofagasta,55.0,,Masculino,Técnico,Sí,Moderada
+76.0,Rancagua,73.3,417000.0,Otro,Básica,No,Baja
+66.0,Temuco,75.5,,Masculino,Media,Sí,
+78.0,Rancagua,60.6,675000.0,Masculino,Universitario,Sí,Baja
+,sin información,61.8,599000.0,Femenino,Básica,Sí,Alta
+27.0,Santiago,54.9,488000.0,Otro,Básica,No,Alta
+74.0,Talca,,,Otro,Media,No,Alta
+72.0,Temuco,69.8,676000.0,Otro,Universitario,Sí,Moderada
+66.0,Temuco,61.8,615000.0,Femenino,Básica,Sí,Moderada
+64.0,Concepción,47.7,369000.0,Otro,Media,Sí,Moderada
+29.0,Temuco,59.7,364000.0,Femenino,Básica,Sí,Baja
+79.0,sin información,63.7,418000.0,Masculino,Básica,Sí,Moderada
+33.0,Talca,82.3,399000.0,Masculino,Básica,Sí,Moderada
+41.0,Talca,78.9,654000.0,Otro,Universitario,No,Moderada
+36.0,Antofagasta,82.5,565000.0,Masculino,Técnico,Sí,Moderada
+25.0,Santiago,58.9,584000.0,Masculino,,Sí,Alta
+48.0,sin información,72.1,529000.0,Otro,Universitario,Sí,Baja
+38.0,Rancagua,33.7,536000.0,Masculino,Universitario,No,Alta
+34.0,Iquique,76.4,263000.0,Otro,,Sí,
+40.0,Iquique,79.2,619000.0,Otro,Básica,No,Baja
+,La Serena,64.7,415000.0,Masculino,Universitario,Sí,Alta
+71.0,Puerto Montt,,495000.0,Masculino,Media,Sí,Moderada
+33.0,Antofagasta,47.3,429000.0,Masculino,Técnico,Sí,Alta
+23.0,La Serena,58.0,522000.0,Masculino,Técnico,Sí,Baja
+25.0,La Serena,81.5,586000.0,Masculino,Técnico,Sí,Baja
+42.0,Valparaíso,77.7,349000.0,Femenino,Técnico,Sí,Moderada
+35.0,Valparaíso,63.8,,Masculino,Media,No,Alta
+42.0,La Serena,82.2,,Femenino,Básica,Sí,Baja
+29.0,Temuco,72.1,698000.0,Otro,Media,Sí,Alta
+32.0,Puerto Montt,62.4,333000.0,Masculino,Básica,Sí,Moderada
+76.0,Antofagasta,67.3,350000.0,Masculino,Técnico,No,Moderada
+43.0,La Serena,63.2,446000.0,Masculino,,Sí,Baja
+58.0,Rancagua,52.2,361000.0,,,No,Moderada
+62.0,Puerto Montt,88.9,466000.0,Femenino,Universitario,Sí,Baja
+,Valparaíso,61.5,421000.0,Femenino,Básica,Sí,Baja
+64.0,Rancagua,57.5,513000.0,Masculino,Técnico,No,Moderada
+49.0,Valparaíso,47.1,651000.0,Masculino,Media,No,Moderada
+27.0,Valparaíso,30.5,511000.0,Masculino,Universitario,Sí,Alta
+33.0,Puerto Montt,80.5,524000.0,Masculino,Básica,No,Alta
+24.0,Valparaíso,81.9,341000.0,Otro,Universitario,No,
+,Talca,87.9,480000.0,Masculino,Media,Sí,Alta
+40.0,sin información,67.8,437000.0,Otro,Técnico,Sí,Baja
+43.0,Talca,65.2,602000.0,Masculino,,,Moderada
+38.0,Santiago,62.4,385000.0,Femenino,Técnico,No,Moderada
+,Iquique,63.8,371000.0,Femenino,Técnico,Sí,Alta
+,Iquique,86.8,548000.0,,Técnico,Sí,Baja
+,Valparaíso,69.6,797000.0,Masculino,Universitario,No,Baja
+31.0,sin información,75.7,,Otro,Media,No,
+32.0,Antofagasta,63.4,525000.0,Masculino,Universitario,Sí,Baja
+70.0,Santiago,89.8,642000.0,Masculino,Media,No,Baja
+24.0,Rancagua,41.4,576000.0,Masculino,Básica,No,Moderada
+26.0,Puerto Montt,51.7,577000.0,Femenino,Básica,No,Baja
+68.0,Valparaíso,75.7,486000.0,Otro,Media,Sí,Baja
+65.0,sin información,96.3,489000.0,Femenino,Media,Sí,Baja
+25.0,Talca,66.6,387000.0,Otro,Media,Sí,Alta
+67.0,Antofagasta,57.4,573000.0,Femenino,Media,No,Alta
+76.0,Temuco,85.0,570000.0,Masculino,Técnico,Sí,Alta
+40.0,Talca,74.9,,Femenino,Universitario,Sí,Baja
+46.0,sin información,89.4,427000.0,Femenino,Técnico,No,Baja
+35.0,Santiago,50.6,625000.0,Otro,Universitario,No,Alta
+48.0,Concepción,88.2,670000.0,Otro,Universitario,Sí,Alta
+47.0,Talca,46.8,318000.0,Femenino,Universitario,No,Baja
+69.0,Valparaíso,65.7,,Otro,Técnico,Sí,Baja
+56.0,La Serena,76.2,676000.0,Otro,Media,Sí,
+52.0,La Serena,72.8,403000.0,Otro,Técnico,Sí,Alta
+35.0,sin información,85.9,579000.0,,Técnico,No,Baja
+76.0,Concepción,42.6,501000.0,Otro,Universitario,No,Alta
+59.0,Concepción,72.1,,Femenino,Básica,Sí,Alta
+,Santiago,88.0,506000.0,Otro,Básica,Sí,Alta
+34.0,Antofagasta,70.9,612000.0,Masculino,Técnico,Sí,Moderada
+31.0,Puerto Montt,52.9,347000.0,Femenino,Universitario,Sí,Baja
+48.0,Concepción,85.1,363000.0,Femenino,Técnico,No,Baja
+41.0,Temuco,60.3,720000.0,Femenino,Técnico,Sí,Alta
+52.0,Santiago,57.6,815000.0,Otro,Media,,Baja
+61.0,Iquique,55.7,499000.0,Masculino,Universitario,No,Moderada
+77.0,sin información,67.0,757000.0,Otro,Básica,Sí,Alta
+,sin información,72.7,384000.0,Femenino,Básica,Sí,Moderada
+51.0,Santiago,51.0,420000.0,Femenino,Básica,Sí,Moderada
